@@ -1,0 +1,2629 @@
+
+
+CORREO:    respaldosadmdeudas@gmail.com   -   
+NOMBRE: Heider   -   
+CONTENIDO:    <h2>Hola Admin,</h2>
+                    <p>Este es un reporte de relpaldo:<br><br><br>
+                    Se hace respaldo a fecha de 2024-07-27<br><br><br>                    
+                    Saludos,<br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    respaldo2024-07-27   -   
+RUTA_ARCHIVO:    ../Respaldos/Respaldo-2024-07-27.sql   -   
+FECHA_Y_HORA:    2024-07-27 20:56:46
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    respaldosadmdeudas@gmail.com   -   
+NOMBRE: Heider   -   
+CONTENIDO:    <h2>Hola Admin,</h2>
+                    <p>Este es un reporte de respaldo:<br><br><br>
+                    Se hace respaldo a fecha de 2024-07-27<br><br><br>                    
+                    Saludos,<br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    respaldo2024-07-27   -   
+RUTA_ARCHIVO:    ../Respaldos/Respaldo-2024-07-27.sql   -   
+FECHA_Y_HORA:    2024-07-27 21:03:05
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    respaldosadmdeudas@gmail.com   -   
+NOMBRE: Heider   -   
+CONTENIDO:    <h2>Hola Admin,</h2>
+                    <p>Este es un reporte de respaldo:<br><br><br>
+                    Se hace respaldo a fecha de 2024-07-28<br><br><br>                    
+                    Saludos,<br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    respaldo2024-07-28   -   
+RUTA_ARCHIVO:    ../Respaldos/Respaldo-2024-07-28.sql   -   
+FECHA_Y_HORA:    2024-07-28 14:00:01
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    respaldosadmdeudas@gmail.com   -   
+NOMBRE: Heider   -   
+CONTENIDO:    <h2>Hola Admin,</h2>
+                    <p>Este es un reporte de respaldo:<br><br><br>
+                    Se hace respaldo a fecha de 2024-07-28<br><br><br>                    
+                    Saludos,<br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    respaldo2024-07-28   -   
+RUTA_ARCHIVO:    ../Respaldos/Respaldo-2024-07-28.sql   -   
+FECHA_Y_HORA:    2024-07-28 16:44:32
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    respaldosadmdeudas@gmail.com   -   
+NOMBRE: Heider   -   
+CONTENIDO:    <h2>Hola Admin,</h2>
+                    <p>Este es un reporte de respaldo:<br><br><br>
+                    Se hace respaldo a fecha de 2024-07-28<br><br><br>                    
+                    Saludos,<br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    respaldo2024-07-28   -   
+RUTA_ARCHIVO:    ../Respaldos/Respaldo-2024-07-28.sql   -   
+FECHA_Y_HORA:    2024-07-28 18:33:50
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    respaldosadmdeudas@gmail.com   -   
+NOMBRE: Heider   -   
+CONTENIDO:    <h2>Hola Admin,</h2>
+                    <p>Este es un reporte de respaldo:<br><br><br>
+                    Se hace respaldo a fecha de 2024-07-29<br><br><br>                    
+                    Saludos,<br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    respaldo2024-07-29   -   
+RUTA_ARCHIVO:    ../Respaldos/Respaldo-2024-07-29.sql   -   
+FECHA_Y_HORA:    2024-07-29 14:00:01
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    respaldosadmdeudas@gmail.com   -   
+NOMBRE: Heider   -   
+CONTENIDO:    <h2>Hola Admin,</h2>
+                    <p>Este es un reporte de respaldo:<br><br><br>
+                    Se hace respaldo a fecha de 2024-07-30<br><br><br>                    
+                    Saludos,<br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    respaldo2024-07-30   -   
+RUTA_ARCHIVO:    ../Respaldos/Respaldo-2024-07-30.sql   -   
+FECHA_Y_HORA:    2024-07-30 14:00:01
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    respaldosadmdeudas@gmail.com   -   
+NOMBRE: Heider   -   
+CONTENIDO:    <h2>Hola Admin,</h2>
+                    <p>Este es un reporte de respaldo:<br><br><br>
+                    Se hace respaldo a fecha de 2024-07-31<br><br><br>                    
+                    Saludos,<br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    respaldo2024-07-31   -   
+RUTA_ARCHIVO:    ../Respaldos/Respaldo-2024-07-31.sql   -   
+FECHA_Y_HORA:    2024-07-31 14:00:01
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    ashleyleyton15@gmail.com   -   
+NOMBRE: Ashley   -   
+CONTENIDO:    <h2>Hola Ashley,</h2>
+<p>En este reporte deseamos hablarte sobre tu nuevo pago, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>                    
+A fecha de 2024-08-01 Tu pago ha sido aceptado y ha finiquitado una deuda<br><br><br> 
+Con ID pago: 307<br><br>
+Con ID deuda: 80<br><br>
+Con un valor pago: 8000<br><br>
+Con un valor inicial (deuda): 13200<br><br>
+Con un valor actual (deuda): 0<br><br>
+Con un interes total (deuda): 0<br><br>
+Con un valor total (deuda): 0<br><br>
+Saludos, <br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva pago   -   
+RUTA_ARCHIVO:    ../ComprovantesPago/Confirmados/Pago66aac1a94a589.png   -   
+FECHA_Y_HORA:    2024-08-01 00:59:18
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    ashleyleyton15@gmail.com   -   
+NOMBRE: Ashley   -   
+CONTENIDO:    <h2>Hola Ashley,</h2>
+<p>En este reporte deseamos hablarte sobre tu nuevo pago, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>                    
+A fecha de 2024-08-01 Tu pago ha sido aceptado por el area de validaciones<br><br><br> 
+Con ID pago: 308<br><br>
+Con ID deuda: 108<br><br>
+Con un valor pago: 4000<br><br>
+Con un valor inicial (deuda): 11000<br><br>
+Con un valor actual (deuda): 7000<br><br>
+Con un interes total (deuda): 0<br><br>
+Con un valor total (deuda): 7000<br><br>
+Saludos, <br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva pago   -   
+RUTA_ARCHIVO:    ../ComprovantesPago/Confirmados/Pago66aac22518cef.png   -   
+FECHA_Y_HORA:    2024-08-01 01:07:43
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    ashleyleyton15@gmail.com   -   
+NOMBRE: Ashley   -   
+CONTENIDO:    <h2>Hola Ashley,</h2>
+<p>En este reporte deseamos hablarte sobre tu nuevo pago, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>                    
+A fecha de 2024-08-01 Tu pago ha sido rechazado por el area de validaciones<br><br><br> 
+Con ID pago: 309<br><br>
+Con ID deuda: 108<br><br>
+Con un valor pago: 500<br><br>
+Con un valor inicial (deuda): 11000<br><br>
+Con un valor actual (deuda): 7000<br><br>
+Con un interes total (deuda): 0<br><br>
+Con un valor total (deuda): 7000<br><br>
+Saludos, <br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva pago   -   
+RUTA_ARCHIVO:    ../ComprovantesPago/Rechazados/Pago66aac3fd1e393.png   -   
+FECHA_Y_HORA:    2024-08-01 01:08:52
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    ashleyleyton15@gmail.com   -   
+NOMBRE: Ashley   -   
+CONTENIDO:    <h2>Hola Ashley,</h2>
+<p>En este reporte deseamos hablarte sobre tu nuevo pago, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>                    
+A fecha de 2024-08-01 Tu pago ha sido rechazado por el area de validaciones<br><br><br> 
+Con ID pago: 310<br><br>
+Con ID deuda: 108<br><br>
+Con un valor pago: 500<br><br>
+Con un valor inicial (deuda): 11000<br><br>
+Con un valor actual (deuda): 7000<br><br>
+Con un interes total (deuda): 0<br><br>
+Con un valor total (deuda): 7000<br><br>
+Saludos, <br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva pago   -   
+RUTA_ARCHIVO:    ../ComprovantesPago/Rechazados/Pago66aac43604784.png   -   
+FECHA_Y_HORA:    2024-08-01 01:10:06
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    ashleyleyton15@gmail.com   -   
+NOMBRE: Ashley   -   
+CONTENIDO:    <h2>Hola Ashley,</h2>
+<p>En este reporte deseamos hablarte sobre tu nuevo pago, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>                    
+A fecha de 2024-08-01 Tu pago ha sido rechazado por el area de validaciones<br><br><br> 
+Con ID pago: 310<br><br>
+Con ID deuda: 108<br><br>
+Con un valor pago: 500<br><br>
+Con un valor inicial (deuda): 11000<br><br>
+Con un valor actual (deuda): 7000<br><br>
+Con un interes total (deuda): 0<br><br>
+Con un valor total (deuda): 7000<br><br>
+Saludos, <br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva pago   -   
+RUTA_ARCHIVO:    ../ComprovantesPago/Rechazados/Pago66aac43604784.png   -   
+FECHA_Y_HORA:    2024-08-01 01:10:30
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    ashleyleyton15@gmail.com   -   
+NOMBRE: Ashley   -   
+CONTENIDO:    <h2>Hola Ashley,</h2>
+<p>En este reporte deseamos hablarte sobre tu nuevo pago, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>                    
+A fecha de 2024-08-01 Tu pago ha sido rechazado por el area de validaciones<br><br><br> 
+Con ID pago: 310<br><br>
+Con ID deuda: 108<br><br>
+Con un valor pago: 500<br><br>
+Con un valor inicial (deuda): 11000<br><br>
+Con un valor actual (deuda): 7000<br><br>
+Con un interes total (deuda): 0<br><br>
+Con un valor total (deuda): 7000<br><br>
+Saludos, <br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva pago   -   
+RUTA_ARCHIVO:    ../ComprovantesPago/Rechazados/Pago66aac43604784.png   -   
+FECHA_Y_HORA:    2024-08-01 01:10:33
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    ashleyleyton15@gmail.com   -   
+NOMBRE: Ashley   -   
+CONTENIDO:    <h2>Hola Ashley,</h2>
+<p>En este reporte deseamos hablarte sobre tu nuevo pago, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>                    
+A fecha de 2024-08-01 Tu pago ha sido rechazado por el area de validaciones<br><br><br> 
+Con ID pago: 310<br><br>
+Con ID deuda: 108<br><br>
+Con un valor pago: 500<br><br>
+Con un valor inicial (deuda): 11000<br><br>
+Con un valor actual (deuda): 7000<br><br>
+Con un interes total (deuda): 0<br><br>
+Con un valor total (deuda): 7000<br><br>
+Saludos, <br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva pago   -   
+RUTA_ARCHIVO:    ../ComprovantesPago/Rechazados/Pago66aac43604784.png   -   
+FECHA_Y_HORA:    2024-08-01 01:10:35
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    ashleyleyton15@gmail.com   -   
+NOMBRE: Ashley   -   
+CONTENIDO:    <h2>Hola Ashley,</h2>
+<p>En este reporte deseamos hablarte sobre tu nuevo pago, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>                    
+A fecha de 2024-08-01 Tu pago ha sido rechazado por el area de validaciones<br><br><br> 
+Con ID pago: 310<br><br>
+Con ID deuda: 108<br><br>
+Con un valor pago: 500<br><br>
+Con un valor inicial (deuda): 11000<br><br>
+Con un valor actual (deuda): 7000<br><br>
+Con un interes total (deuda): 0<br><br>
+Con un valor total (deuda): 7000<br><br>
+Saludos, <br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva pago   -   
+RUTA_ARCHIVO:    ../ComprovantesPago/Rechazados/Pago66aac43604784.png   -   
+FECHA_Y_HORA:    2024-08-01 01:10:36
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    ashleyleyton15@gmail.com   -   
+NOMBRE: Ashley   -   
+CONTENIDO:    <h2>Hola Ashley,</h2>
+<p>En este reporte deseamos hablarte sobre tu nuevo pago, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>                    
+A fecha de 2024-08-01 Tu pago ha sido rechazado por el area de validaciones<br><br><br> 
+Con ID pago: 310<br><br>
+Con ID deuda: 108<br><br>
+Con un valor pago: 500<br><br>
+Con un valor inicial (deuda): 11000<br><br>
+Con un valor actual (deuda): 7000<br><br>
+Con un interes total (deuda): 0<br><br>
+Con un valor total (deuda): 7000<br><br>
+Saludos, <br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva pago   -   
+RUTA_ARCHIVO:    ../ComprovantesPago/Rechazados/Pago66aac43604784.png   -   
+FECHA_Y_HORA:    2024-08-01 01:11:29
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    ashleyleyton15@gmail.com   -   
+NOMBRE: Ashley   -   
+CONTENIDO:    <h2>Hola Ashley,</h2>
+<p>En este reporte deseamos hablarte sobre tu nuevo pago, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>                    
+A fecha de 2024-08-01 Tu pago ha sido rechazado por el area de validaciones<br><br><br> 
+Con ID pago: 310<br><br>
+Con ID deuda: 108<br><br>
+Con un valor pago: 500<br><br>
+Con un valor inicial (deuda): 11000<br><br>
+Con un valor actual (deuda): 7000<br><br>
+Con un interes total (deuda): 0<br><br>
+Con un valor total (deuda): 7000<br><br>
+Saludos, <br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva pago   -   
+RUTA_ARCHIVO:    ../ComprovantesPago/Rechazados/Pago66aac43604784.png   -   
+FECHA_Y_HORA:    2024-08-01 01:12:32
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    ashleyleyton15@gmail.com   -   
+NOMBRE: Ashley   -   
+CONTENIDO:    <h2>Hola Ashley,</h2>
+<p>En este reporte deseamos hablarte sobre tu nuevo pago, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>                    
+A fecha de 2024-08-01 Tu pago ha sido rechazado por el area de validaciones<br><br><br> 
+Con ID pago: 310<br><br>
+Con ID deuda: 108<br><br>
+Con un valor pago: 500<br><br>
+Con un valor inicial (deuda): 11000<br><br>
+Con un valor actual (deuda): 7000<br><br>
+Con un interes total (deuda): 0<br><br>
+Con un valor total (deuda): 7000<br><br>
+Saludos, <br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva pago   -   
+RUTA_ARCHIVO:    ../ComprovantesPago/Rechazados/Pago66aac43604784.png   -   
+FECHA_Y_HORA:    2024-08-01 01:13:06
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    ashleyleyton15@gmail.com   -   
+NOMBRE: Ashley   -   
+CONTENIDO:    <h2>Hola Ashley,</h2>
+<p>En este reporte deseamos hablarte sobre tu nuevo pago, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>                    
+A fecha de 2024-08-01 Tu pago ha sido rechazado por el area de validaciones<br><br><br> 
+Con ID pago: 309<br><br>
+Con ID deuda: 108<br><br>
+Con un valor pago: 500<br><br>
+Con un valor inicial (deuda): 11000<br><br>
+Con un valor actual (deuda): 7000<br><br>
+Con un interes total (deuda): 0<br><br>
+Con un valor total (deuda): 7000<br><br>
+Saludos, <br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva pago   -   
+RUTA_ARCHIVO:    ../ComprovantesPago/Rechazados/Pago66aac3fd1e393.png   -   
+FECHA_Y_HORA:    2024-08-01 01:13:41
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    ashleyleyton15@gmail.com   -   
+NOMBRE: Ashley   -   
+CONTENIDO:    <h2>Hola Ashley,</h2>
+<p>En este reporte deseamos hablarte sobre tu nuevo pago, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>                    
+A fecha de 2024-08-01 Tu pago ha sido rechazado por el area de validaciones<br><br><br> 
+Con ID pago: 311<br><br>
+Con ID deuda: 107<br><br>
+Con un valor pago: 500<br><br>
+Con un valor inicial (deuda): 33000<br><br>
+Con un valor actual (deuda): 33000<br><br>
+Con un interes total (deuda): 0<br><br>
+Con un valor total (deuda): 33000<br><br>
+Saludos, <br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva pago   -   
+RUTA_ARCHIVO:    ../ComprovantesPago/Rechazados/Pago66aac6202d226.png   -   
+FECHA_Y_HORA:    2024-08-01 01:18:04
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    ashleyleyton15@gmail.com   -   
+NOMBRE: Ashley   -   
+CONTENIDO:    <h2>Hola Ashley,</h2>
+<p>En este reporte deseamos hablarte sobre tu nuevo pago, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>                    
+A fecha de 2024-08-01 Tu pago ha sido rechazado por el area de validaciones<br><br><br> 
+Con ID pago: 311<br><br>
+Con ID deuda: 107<br><br>
+Con un valor pago: 500<br><br>
+Con un valor inicial (deuda): 33000<br><br>
+Con un valor actual (deuda): 33000<br><br>
+Con un interes total (deuda): 0<br><br>
+Con un valor total (deuda): 33000<br><br>
+Saludos, <br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva pago   -   
+RUTA_ARCHIVO:    ../ComprovantesPago/Rechazados/Pago66aac6202d226.png   -   
+FECHA_Y_HORA:    2024-08-01 01:21:46
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    ofeliamontielvera@gmail.com   -   
+NOMBRE: Ofelia   -   
+CONTENIDO:    <h2>Hola Ofelia,</h2>
+                    <p>En este reporte deseamos hablarte sobre tu nueva deuda, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>
+                    A fecha de 2024-07-31Se ha registrado una nueva deuda.<br><br><br>
+                    Con ID: 113<br><br>
+                    Con un valor inicial: 7000<br><br>
+                    Con un valor actual: 7700<br><br>
+                    Saludos,<br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva deuda   -   
+RUTA_ARCHIVO:    ../ComprovantesDeuda/Aprovados/Deuda66aac8dd5a865.png   -   
+FECHA_Y_HORA:    2024-07-31 18:29:33
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    ashleyleyton15@gmail.com   -   
+NOMBRE: Ashley   -   
+CONTENIDO:    <h2>Hola Ashley,</h2>
+<p>En este reporte deseamos hablarte sobre tu nuevo pago, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>                    
+A fecha de 2024-07-31 Se ha registrado un nuevo pago<br><br><br> 
+Con ID pago: 312<br><br>
+Con ID deuda: 108<br><br>
+Con un valor pago: 500<br><br>
+Con un valor inicial (deuda): 11000<br><br>
+Con un valor actual (deuda): 7000<br><br>
+Con un interes total (deuda): 0<br><br>
+Con un valor total (deuda): 7000<br><br>
+Saludos, <br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva pago   -   
+RUTA_ARCHIVO:    ../ComprovantesPago/PorConfirmar/Pago66aacbe27d9a9.png   -   
+FECHA_Y_HORA:    2024-07-31 18:42:26
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    ashleyleyton15@gmail.com   -   
+NOMBRE: Ashley   -   
+CONTENIDO:    <h2>Hola Ashley,</h2>
+<p>En este reporte deseamos hablarte sobre tu nuevo pago, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>                    
+A fecha de 2024-07-31 El pago que acabas de registrar ha ido al area de validaciones<br><br><br> 
+Con ID pago: 313<br><br>
+Con ID deuda: 108<br><br>
+Con un valor pago: 500<br><br>
+Con un valor inicial (deuda): 11000<br><br>
+Con un valor actual (deuda): 7000<br><br>
+Con un interes total (deuda): 0<br><br>
+Con un valor total (deuda): 7000<br><br>
+Saludos, <br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva pago   -   
+RUTA_ARCHIVO:    ../ComprovantesPago/PorConfirmar/Pago66aacc605f88c.png   -   
+FECHA_Y_HORA:    2024-07-31 18:44:32
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    respaldosadmdeudas@gmail.com   -   
+NOMBRE: Heider   -   
+CONTENIDO:    <h2>Hola Admin,</h2>
+                    <p>Este es un reporte de respaldo:<br><br><br>
+                    Se hace respaldo a fecha de 2024-08-01<br><br><br>                    
+                    Saludos,<br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    respaldo2024-08-01   -   
+RUTA_ARCHIVO:    ../Respaldos/Respaldo-2024-08-01.sql   -   
+FECHA_Y_HORA:    2024-08-01 14:00:01
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    anllyleyton58@gmail.com   -   
+NOMBRE: Anlly   -   
+CONTENIDO:    <h2>Hola Anlly,</h2>
+                    <p>En este reporte mensual deseamos avivar nuestros lazos actuales, por ello, desde AdministradosHD queremos recordarte que:<br><br><br>
+                    A fecha de 2024-08-01<br><br>
+                    Nos unen: 1288255 deseos Colombianos<br><br>
+                    Saludos,<br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE MENSUAL - total en deudas   -   
+RUTA_ARCHIVO:       -   
+FECHA_Y_HORA:    2024-08-01 21:17:09
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    ashleyleyton15@gmail.com   -   
+NOMBRE: Ashley   -   
+CONTENIDO:    <h2>Hola Ashley,</h2>
+                    <p>En este reporte mensual deseamos avivar nuestros lazos actuales, por ello, desde AdministradosHD queremos recordarte que:<br><br><br>
+                    A fecha de 2024-08-01<br><br>
+                    Nos unen: 40000 deseos Colombianos<br><br>
+                    Saludos,<br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE MENSUAL - total en deudas   -   
+RUTA_ARCHIVO:       -   
+FECHA_Y_HORA:    2024-08-01 21:17:11
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    edwin.leyton1992@gmail.com   -   
+NOMBRE: Edwin Leyton    -   
+CONTENIDO:    <h2>Hola Edwin Leyton ,</h2>
+                    <p>En este reporte mensual deseamos avivar nuestros lazos actuales, por ello, desde AdministradosHD queremos recordarte que:<br><br><br>
+                    A fecha de 2024-08-01<br><br>
+                    Nos unen: 2881000 deseos Colombianos<br><br>
+                    Saludos,<br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE MENSUAL - total en deudas   -   
+RUTA_ARCHIVO:       -   
+FECHA_Y_HORA:    2024-08-01 21:17:13
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    heiderleyton33@gmail.com   -   
+NOMBRE: Heider   -   
+CONTENIDO:    <h2>Hola Heider,</h2>
+                    <p>En este reporte mensual deseamos avivar nuestros lazos actuales, por ello, desde AdministradosHD queremos recordarte que:<br><br><br>
+                    A fecha de 2024-08-01<br><br>
+                    Nos unen: 50 deseos Colombianos<br><br>
+                    Saludos,<br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE MENSUAL - total en deudas   -   
+RUTA_ARCHIVO:       -   
+FECHA_Y_HORA:    2024-08-01 21:17:15
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    edwin.leyton1992@gmail.com   -   
+NOMBRE: Karen   -   
+CONTENIDO:    <h2>Hola Karen,</h2>
+                    <p>En este reporte mensual deseamos avivar nuestros lazos actuales, por ello, desde AdministradosHD queremos recordarte que:<br><br><br>
+                    A fecha de 2024-08-01<br><br>
+                    Nos unen: 560000 deseos Colombianos<br><br>
+                    Saludos,<br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE MENSUAL - total en deudas   -   
+RUTA_ARCHIVO:       -   
+FECHA_Y_HORA:    2024-08-01 21:17:17
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    marlon199604@gmail.com   -   
+NOMBRE: Marlon   -   
+CONTENIDO:    <h2>Hola Marlon,</h2>
+                    <p>En este reporte mensual deseamos avivar nuestros lazos actuales, por ello, desde AdministradosHD queremos recordarte que:<br><br><br>
+                    A fecha de 2024-08-01<br><br>
+                    Nos unen: 814000 deseos Colombianos<br><br>
+                    Saludos,<br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE MENSUAL - total en deudas   -   
+RUTA_ARCHIVO:       -   
+FECHA_Y_HORA:    2024-08-01 21:17:18
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    ofeliamontielvera@gmail.com   -   
+NOMBRE: Ofelia   -   
+CONTENIDO:    <h2>Hola Ofelia,</h2>
+                    <p>En este reporte mensual deseamos avivar nuestros lazos actuales, por ello, desde AdministradosHD queremos recordarte que:<br><br><br>
+                    A fecha de 2024-08-01<br><br>
+                    Nos unen: 57700 deseos Colombianos<br><br>
+                    Saludos,<br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE MENSUAL - total en deudas   -   
+RUTA_ARCHIVO:       -   
+FECHA_Y_HORA:    2024-08-01 21:17:20
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    anllyleyton58@gmail.com   -   
+NOMBRE: Anlly   -   
+CONTENIDO:    <h2>Hola Anlly,</h2>
+                    <p>En este reporte mensual deseamos avivar nuestros lazos actuales, por ello, desde AdministradosHD queremos recordarte que:<br><br><br>
+                    A fecha de 2024-08-01<br><br>
+                    Nos unen: 1288255 deseos Colombianos<br><br>
+                    Saludos,<br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE MENSUAL - total en deudas   -   
+RUTA_ARCHIVO:       -   
+FECHA_Y_HORA:    2024-08-01 21:30:00
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    ashleyleyton15@gmail.com   -   
+NOMBRE: Ashley   -   
+CONTENIDO:    <h2>Hola Ashley,</h2>
+                    <p>En este reporte mensual deseamos avivar nuestros lazos actuales, por ello, desde AdministradosHD queremos recordarte que:<br><br><br>
+                    A fecha de 2024-08-01<br><br>
+                    Nos unen: 40000 deseos Colombianos<br><br>
+                    Saludos,<br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE MENSUAL - total en deudas   -   
+RUTA_ARCHIVO:       -   
+FECHA_Y_HORA:    2024-08-01 21:30:02
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    edwin.leyton1992@gmail.com   -   
+NOMBRE: Edwin Leyton    -   
+CONTENIDO:    <h2>Hola Edwin Leyton ,</h2>
+                    <p>En este reporte mensual deseamos avivar nuestros lazos actuales, por ello, desde AdministradosHD queremos recordarte que:<br><br><br>
+                    A fecha de 2024-08-01<br><br>
+                    Nos unen: 2881000 deseos Colombianos<br><br>
+                    Saludos,<br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE MENSUAL - total en deudas   -   
+RUTA_ARCHIVO:       -   
+FECHA_Y_HORA:    2024-08-01 21:30:04
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    heiderleyton33@gmail.com   -   
+NOMBRE: Heider   -   
+CONTENIDO:    <h2>Hola Heider,</h2>
+                    <p>En este reporte mensual deseamos avivar nuestros lazos actuales, por ello, desde AdministradosHD queremos recordarte que:<br><br><br>
+                    A fecha de 2024-08-01<br><br>
+                    Nos unen: 50 deseos Colombianos<br><br>
+                    Saludos,<br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE MENSUAL - total en deudas   -   
+RUTA_ARCHIVO:       -   
+FECHA_Y_HORA:    2024-08-01 21:30:05
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    edwin.leyton1992@gmail.com   -   
+NOMBRE: Karen   -   
+CONTENIDO:    <h2>Hola Karen,</h2>
+                    <p>En este reporte mensual deseamos avivar nuestros lazos actuales, por ello, desde AdministradosHD queremos recordarte que:<br><br><br>
+                    A fecha de 2024-08-01<br><br>
+                    Nos unen: 560000 deseos Colombianos<br><br>
+                    Saludos,<br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE MENSUAL - total en deudas   -   
+RUTA_ARCHIVO:       -   
+FECHA_Y_HORA:    2024-08-01 21:30:07
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    marlon199604@gmail.com   -   
+NOMBRE: Marlon   -   
+CONTENIDO:    <h2>Hola Marlon,</h2>
+                    <p>En este reporte mensual deseamos avivar nuestros lazos actuales, por ello, desde AdministradosHD queremos recordarte que:<br><br><br>
+                    A fecha de 2024-08-01<br><br>
+                    Nos unen: 814000 deseos Colombianos<br><br>
+                    Saludos,<br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE MENSUAL - total en deudas   -   
+RUTA_ARCHIVO:       -   
+FECHA_Y_HORA:    2024-08-01 21:30:09
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    ofeliamontielvera@gmail.com   -   
+NOMBRE: Ofelia   -   
+CONTENIDO:    <h2>Hola Ofelia,</h2>
+                    <p>En este reporte mensual deseamos avivar nuestros lazos actuales, por ello, desde AdministradosHD queremos recordarte que:<br><br><br>
+                    A fecha de 2024-08-01<br><br>
+                    Nos unen: 57700 deseos Colombianos<br><br>
+                    Saludos,<br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE MENSUAL - total en deudas   -   
+RUTA_ARCHIVO:       -   
+FECHA_Y_HORA:    2024-08-01 21:30:41
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    ashleyleyton15@gmail.com   -   
+NOMBRE: Ashley   -   
+CONTENIDO:    <h2>Hola Ashley,</h2>
+<p>En este reporte deseamos hablarte sobre tu nuevo pago, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>                    
+A fecha de 2024-08-01 El pago que acabas de registrar ha ido al area de validaciones<br><br><br> 
+Con ID pago: 314<br><br>
+Con ID deuda: 108<br><br>
+Con un valor pago: 7000<br><br>
+Con un valor inicial (deuda): 11000<br><br>
+Con un valor actual (deuda): 7000<br><br>
+Con un interes total (deuda): 0<br><br>
+Con un valor total (deuda): 7000<br><br>
+Saludos, <br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva pago   -   
+RUTA_ARCHIVO:    ../ComprovantesPago/PorConfirmar/Pago66ac3643adc9f.png   -   
+FECHA_Y_HORA:    2024-08-01 20:28:35
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    ashleyleyton15@gmail.com   -   
+NOMBRE: Ashley   -   
+CONTENIDO:    <h2>Hola Ashley,</h2>
+<p>En este reporte deseamos hablarte sobre tu nuevo pago, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>                    
+A fecha de 2024-08-01 El pago que acabas de registrar ha ido al area de validaciones<br><br><br> 
+Con ID pago: 315<br><br>
+Con ID deuda: 107<br><br>
+Con un valor pago: 3000<br><br>
+Con un valor inicial (deuda): 33000<br><br>
+Con un valor actual (deuda): 33000<br><br>
+Con un interes total (deuda): 0<br><br>
+Con un valor total (deuda): 33000<br><br>
+Saludos, <br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva pago   -   
+RUTA_ARCHIVO:    ../ComprovantesPago/PorConfirmar/Pago66ac366835f72.png   -   
+FECHA_Y_HORA:    2024-08-01 20:29:12
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    ashleyleyton15@gmail.com   -   
+NOMBRE: Ashley   -   
+CONTENIDO:    <h2>Hola Ashley,</h2>
+<p>En este reporte deseamos hablarte sobre tu nuevo pago, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>                    
+A fecha de 2024-08-02 Tu pago ha sido rechazado por el area de validaciones<br><br><br> 
+Con ID pago: 313<br><br>
+Con ID deuda: 108<br><br>
+Con un valor pago: 500<br><br>
+Con un valor inicial (deuda): 11000<br><br>
+Con un valor actual (deuda): 7000<br><br>
+Con un interes total (deuda): 0<br><br>
+Con un valor total (deuda): 7000<br><br>
+Saludos, <br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva pago   -   
+RUTA_ARCHIVO:    ../ComprovantesPago/Rechazados/Pago66aacc605f88c.png   -   
+FECHA_Y_HORA:    2024-08-02 03:35:45
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    ashleyleyton15@gmail.com   -   
+NOMBRE: Ashley   -   
+CONTENIDO:    <h2>Hola Ashley,</h2>
+<p>En este reporte deseamos hablarte sobre tu nuevo pago, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>                    
+A fecha de 2024-08-02 Tu pago ha sido rechazado por el area de validaciones<br><br><br> 
+Con ID pago: 312<br><br>
+Con ID deuda: 108<br><br>
+Con un valor pago: 500<br><br>
+Con un valor inicial (deuda): 11000<br><br>
+Con un valor actual (deuda): 7000<br><br>
+Con un interes total (deuda): 0<br><br>
+Con un valor total (deuda): 7000<br><br>
+Saludos, <br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva pago   -   
+RUTA_ARCHIVO:    ../ComprovantesPago/Rechazados/Pago66aacbe27d9a9.png   -   
+FECHA_Y_HORA:    2024-08-02 03:35:54
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    ashleyleyton15@gmail.com   -   
+NOMBRE: Ashley   -   
+CONTENIDO:    <h2>Hola Ashley,</h2>
+<p>En este reporte deseamos hablarte sobre tu nuevo pago, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>                    
+A fecha de 2024-08-02 Tu pago ha sido aceptado por el area de validaciones<br><br><br> 
+Con ID pago: 315<br><br>
+Con ID deuda: 107<br><br>
+Con un valor pago: 3000<br><br>
+Con un valor inicial (deuda): 33000<br><br>
+Con un valor actual (deuda): 30000<br><br>
+Con un interes total (deuda): 0<br><br>
+Con un valor total (deuda): 30000<br><br>
+Saludos, <br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva pago   -   
+RUTA_ARCHIVO:    ../ComprovantesPago/Confirmados/Pago66ac366835f72.png   -   
+FECHA_Y_HORA:    2024-08-02 03:36:05
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    ashleyleyton15@gmail.com   -   
+NOMBRE: Ashley   -   
+CONTENIDO:    <h2>Hola Ashley,</h2>
+<p>En este reporte deseamos hablarte sobre tu nuevo pago, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>                    
+A fecha de 2024-08-02 Tu pago ha sido aceptado y ha finiquitado una deuda<br><br><br> 
+Con ID pago: 314<br><br>
+Con ID deuda: 108<br><br>
+Con un valor pago: 7000<br><br>
+Con un valor inicial (deuda): 11000<br><br>
+Con un valor actual (deuda): 0<br><br>
+Con un interes total (deuda): 0<br><br>
+Con un valor total (deuda): 0<br><br>
+Saludos, <br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva pago   -   
+RUTA_ARCHIVO:    ../ComprovantesPago/Confirmados/Pago66ac3643adc9f.png   -   
+FECHA_Y_HORA:    2024-08-02 03:36:13
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    heiderleyton33@gmail.com   -   
+NOMBRE: Heider   -   
+CONTENIDO:    <h2>Hola Heider,</h2>
+<p>En este reporte deseamos hablarte sobre tu nuevo pago, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>                    
+A fecha de 2024-08-01 El pago que acabas de registrar ha ido al area de validaciones<br><br><br> 
+Con ID pago: 316<br><br>
+Con ID deuda: 106<br><br>
+Con un valor pago: 50<br><br>
+Con un valor inicial (deuda): 50<br><br>
+Con un valor actual (deuda): 50<br><br>
+Con un interes total (deuda): 0<br><br>
+Con un valor total (deuda): 50<br><br>
+Saludos, <br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva pago   -   
+RUTA_ARCHIVO:    ../ComprovantesPago/PorConfirmar/Pago66ac43636c135.png   -   
+FECHA_Y_HORA:    2024-08-01 21:24:35
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    heiderleyton33@gmail.com   -   
+NOMBRE: Heider   -   
+CONTENIDO:    <h2>Hola Heider,</h2>
+<p>En este reporte deseamos hablarte sobre tu nuevo pago, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>                    
+A fecha de 2024-08-02 Tu pago ha sido rechazado por el area de validaciones<br><br><br> 
+Con ID pago: 316<br><br>
+Con ID deuda: 106<br><br>
+Con un valor pago: 50<br><br>
+Con un valor inicial (deuda): 50<br><br>
+Con un valor actual (deuda): 50<br><br>
+Con un interes total (deuda): 0<br><br>
+Con un valor total (deuda): 50<br><br>
+Saludos, <br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva pago   -   
+RUTA_ARCHIVO:    ../ComprovantesPago/Rechazados/Pago66ac43636c135.png   -   
+FECHA_Y_HORA:    2024-08-02 04:34:14
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    heiderleyton33@gmail.com   -   
+NOMBRE: Heider   -   
+CONTENIDO:    <h2>Hola Heider,</h2>
+<p>En este reporte deseamos hablarte sobre tu nuevo pago, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>                    
+A fecha de 2024-08-02 Tu pago ha sido rechazado por el area de validaciones<br><br><br> 
+Con ID pago: 316<br><br>
+Con ID deuda: 106<br><br>
+Con un valor pago: 50<br><br>
+Con un valor inicial (deuda): 50<br><br>
+Con un valor actual (deuda): 50<br><br>
+Con un interes total (deuda): 0<br><br>
+Con un valor total (deuda): 50<br><br>
+Saludos, <br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva pago   -   
+RUTA_ARCHIVO:    ../ComprovantesPago/Rechazados/Pago66ac43636c135.png   -   
+FECHA_Y_HORA:    2024-08-02 04:46:50
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    ashleyleyton15@gmail.com   -   
+NOMBRE: Ashley   -   
+CONTENIDO:    <h2>Hola Ashley,</h2>
+<p>En este reporte deseamos hablarte sobre tu nuevo pago, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>                    
+A fecha de 2024-08-02 El pago que acabas de registrar ha ido al area de validaciones<br><br><br> 
+Con ID pago: 308<br><br>
+Con ID deuda: 80<br><br>
+Con un valor pago: 50<br><br>
+Con un valor inicial (deuda): 13200<br><br>
+Con un valor actual (deuda): 8000<br><br>
+Con un interes total (deuda): 0<br><br>
+Con un valor total (deuda): 8000<br><br>
+Saludos, <br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva pago   -   
+RUTA_ARCHIVO:    ../ComprovantesPago/PorConfirmar/Pago66ad0be6c4cfa.png   -   
+FECHA_Y_HORA:    2024-08-02 11:40:06
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    ashleyleyton15@gmail.com   -   
+NOMBRE: Ashley   -   
+CONTENIDO:    <h2>Hola Ashley,</h2>
+<p>En este reporte deseamos hablarte sobre tu nuevo pago, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>                    
+A fecha de 2024-08-02 Tu pago ha sido aceptado por el area de validaciones<br><br><br> 
+Con ID pago: 308<br><br>
+Con ID deuda: 80<br><br>
+Con un valor pago: 50<br><br>
+Con un valor inicial (deuda): 13200<br><br>
+Con un valor actual (deuda): 7950<br><br>
+Con un interes total (deuda): 0<br><br>
+Con un valor total (deuda): 7950<br><br>
+Saludos, <br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva pago   -   
+RUTA_ARCHIVO:    ../ComprovantesPago/Confirmados/Pago66ad0be6c4cfa.png   -   
+FECHA_Y_HORA:    2024-08-02 18:40:23
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    anllyleyton58@gmail.com   -   
+NOMBRE: Anlly   -   
+CONTENIDO:    <h2>Hola Anlly,</h2>
+<p>En este reporte deseamos hablarte sobre tu nuevo pago, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>                    
+A fecha de 2024-08-02 Tu pago ha sido rechazado por el area de validaciones<br><br><br> 
+Con ID pago: 307<br><br>
+Con ID deuda: 105<br><br>
+Con un valor pago: 50<br><br>
+Con un valor inicial (deuda): 16500<br><br>
+Con un valor actual (deuda): 16500<br><br>
+Con un interes total (deuda): 0<br><br>
+Con un valor total (deuda): 16500<br><br>
+Saludos, <br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva pago   -   
+RUTA_ARCHIVO:    ../ComprovantesPago/Rechazados/Pago66a9532e9b6b3.png   -   
+FECHA_Y_HORA:    2024-08-02 18:40:32
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    ashleyleyton15@gmail.com   -   
+NOMBRE: Ashley   -   
+CONTENIDO:    <h2>Hola Ashley,</h2>
+<p>En este reporte deseamos hablarte sobre tu nuevo pago, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>                    
+A fecha de 2024-08-02 El pago que acabas de registrar ha ido al area de validaciones<br><br><br> 
+Con ID pago: 309<br><br>
+Con ID deuda: 80<br><br>
+Con un valor pago: 50<br><br>
+Con un valor inicial (deuda): 13200<br><br>
+Con un valor actual (deuda): 7950<br><br>
+Con un interes total (deuda): 0<br><br>
+Con un valor total (deuda): 7950<br><br>
+Saludos, <br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva pago   -   
+RUTA_ARCHIVO:    ../ComprovantesPago/PorConfirmar/Pago66ad0c1364aa7.png   -   
+FECHA_Y_HORA:    2024-08-02 11:40:51
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    ashleyleyton15@gmail.com   -   
+NOMBRE: Ashley   -   
+CONTENIDO:    <h2>Hola Ashley,</h2>
+<p>En este reporte deseamos hablarte sobre tu nuevo pago, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>                    
+A fecha de 2024-08-02 Tu pago ha sido rechazado por el area de validaciones<br><br><br> 
+Con ID pago: 309<br><br>
+Con ID deuda: 80<br><br>
+Con un valor pago: 50<br><br>
+Con un valor inicial (deuda): 13200<br><br>
+Con un valor actual (deuda): 7950<br><br>
+Con un interes total (deuda): 0<br><br>
+Con un valor total (deuda): 7950<br><br>
+Saludos, <br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva pago   -   
+RUTA_ARCHIVO:    ../ComprovantesPago/Rechazados/Pago66ad0c1364aa7.png   -   
+FECHA_Y_HORA:    2024-08-02 18:40:58
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    ashleyleyton15@gmail.com   -   
+NOMBRE: Ashley   -   
+CONTENIDO:    <h2>Hola Ashley,</h2>
+<p>En este reporte deseamos hablarte sobre tu nuevo pago, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>                    
+A fecha de 2024-08-02 El pago que acabas de registrar ha ido al area de validaciones<br><br><br> 
+Con ID pago: 310<br><br>
+Con ID deuda: 108<br><br>
+Con un valor pago: 50<br><br>
+Con un valor inicial (deuda): 11000<br><br>
+Con un valor actual (deuda): 11000<br><br>
+Con un interes total (deuda): 0<br><br>
+Con un valor total (deuda): 11000<br><br>
+Saludos, <br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva pago   -   
+RUTA_ARCHIVO:    ../ComprovantesPago/PorConfirmar/Pago66ad0c394a6ae.png   -   
+FECHA_Y_HORA:    2024-08-02 11:41:29
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    ashleyleyton15@gmail.com   -   
+NOMBRE: Ashley   -   
+CONTENIDO:    <h2>Hola Ashley,</h2>
+<p>En este reporte deseamos hablarte sobre tu nuevo pago, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>                    
+A fecha de 2024-08-02 Tu pago ha sido aceptado por el area de validaciones<br><br><br> 
+Con ID pago: 310<br><br>
+Con ID deuda: 108<br><br>
+Con un valor pago: 50<br><br>
+Con un valor inicial (deuda): 11000<br><br>
+Con un valor actual (deuda): 10950<br><br>
+Con un interes total (deuda): 0<br><br>
+Con un valor total (deuda): 10950<br><br>
+Saludos, <br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva pago   -   
+RUTA_ARCHIVO:    ../ComprovantesPago/Confirmados/Pago66ad0c394a6ae.png   -   
+FECHA_Y_HORA:    2024-08-02 18:50:46
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    ashleyleyton15@gmail.com   -   
+NOMBRE: Ashley   -   
+CONTENIDO:    <h2>Hola Ashley,</h2>
+<p>En este reporte deseamos hablarte sobre tu nuevo pago, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>                    
+A fecha de 2024-08-02 El pago que acabas de registrar ha ido al area de validaciones<br><br><br> 
+Con ID pago: 311<br><br>
+Con ID deuda: 80<br><br>
+Con un valor pago: 50<br><br>
+Con un valor inicial (deuda): 13200<br><br>
+Con un valor actual (deuda): 7950<br><br>
+Con un interes total (deuda): 0<br><br>
+Con un valor total (deuda): 7950<br><br>
+Saludos, <br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva pago   -   
+RUTA_ARCHIVO:    ../ComprovantesPago/PorConfirmar/Pago66ad105728ab0.png   -   
+FECHA_Y_HORA:    2024-08-02 11:59:03
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    ashleyleyton15@gmail.com   -   
+NOMBRE: Ashley   -   
+CONTENIDO:    <h2>Hola Ashley,</h2>
+<p>En este reporte deseamos hablarte sobre tu nuevo pago, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>                    
+A fecha de 2024-08-02 Tu pago ha sido aceptado por el area de validaciones<br><br><br> 
+Con ID pago: 311<br><br>
+Con ID deuda: 80<br><br>
+Con un valor pago: 50<br><br>
+Con un valor inicial (deuda): 13200<br><br>
+Con un valor actual (deuda): 7900<br><br>
+Con un interes total (deuda): 0<br><br>
+Con un valor total (deuda): 7900<br><br>
+Saludos, <br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva pago   -   
+RUTA_ARCHIVO:    ../ComprovantesPago/Confirmados/Pago66ad105728ab0.png   -   
+FECHA_Y_HORA:    2024-08-02 18:59:23
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    ashleyleyton15@gmail.com   -   
+NOMBRE: Ashley   -   
+CONTENIDO:    <h2>Hola Ashley,</h2>
+<p>En este reporte deseamos hablarte sobre tu nuevo pago, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>                    
+A fecha de 2024-08-02 El pago que acabas de registrar ha ido al area de validaciones<br><br><br> 
+Con ID pago: 312<br><br>
+Con ID deuda: 108<br><br>
+Con un valor pago: 50<br><br>
+Con un valor inicial (deuda): 11000<br><br>
+Con un valor actual (deuda): 10950<br><br>
+Con un interes total (deuda): 0<br><br>
+Con un valor total (deuda): 10950<br><br>
+Saludos, <br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva pago   -   
+RUTA_ARCHIVO:    ../ComprovantesPago/PorConfirmar/Pago66ad11046b115.png   -   
+FECHA_Y_HORA:    2024-08-02 12:01:56
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    ashleyleyton15@gmail.com   -   
+NOMBRE: Ashley   -   
+CONTENIDO:    <h2>Hola Ashley,</h2>
+<p>En este reporte deseamos hablarte sobre tu nuevo pago, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>                    
+A fecha de 2024-08-02 Tu pago ha sido aceptado por el area de validaciones<br><br><br> 
+Con ID pago: 312<br><br>
+Con ID deuda: 108<br><br>
+Con un valor pago: 50<br><br>
+Con un valor inicial (deuda): 11000<br><br>
+Con un valor actual (deuda): 10900<br><br>
+Con un interes total (deuda): 0<br><br>
+Con un valor total (deuda): 10900<br><br>
+Saludos, <br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva pago   -   
+RUTA_ARCHIVO:    ../ComprovantesPago/Confirmados/Pago66ad11046b115.png   -   
+FECHA_Y_HORA:    2024-08-02 19:02:04
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    ashleyleyton15@gmail.com   -   
+NOMBRE: Ashley   -   
+CONTENIDO:    <h2>Hola Ashley,</h2>
+<p>En este reporte deseamos hablarte sobre tu nuevo pago, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>                    
+A fecha de 2024-08-02 El pago que acabas de registrar ha ido al area de validaciones<br><br><br> 
+Con ID pago: 313<br><br>
+Con ID deuda: 108<br><br>
+Con un valor pago: 50<br><br>
+Con un valor inicial (deuda): 11000<br><br>
+Con un valor actual (deuda): 10900<br><br>
+Con un interes total (deuda): 0<br><br>
+Con un valor total (deuda): 10900<br><br>
+Saludos, <br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva pago   -   
+RUTA_ARCHIVO:    ../ComprovantesPago/PorConfirmar/Pago66ad113c0764d.png   -   
+FECHA_Y_HORA:    2024-08-02 12:02:52
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    ashleyleyton15@gmail.com   -   
+NOMBRE: Ashley   -   
+CONTENIDO:    <h2>Hola Ashley,</h2>
+<p>En este reporte deseamos hablarte sobre tu nuevo pago, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>                    
+A fecha de 2024-08-02 Tu pago ha sido rechazado por el area de validaciones<br><br><br> 
+Con ID pago: 313<br><br>
+Con ID deuda: 108<br><br>
+Con un valor pago: 50<br><br>
+Con un valor inicial (deuda): 11000<br><br>
+Con un valor actual (deuda): 10900<br><br>
+Con un interes total (deuda): 0<br><br>
+Con un valor total (deuda): 10900<br><br>
+Saludos, <br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva pago   -   
+RUTA_ARCHIVO:    ../ComprovantesPago/Rechazados/Pago66ad113c0764d.png   -   
+FECHA_Y_HORA:    2024-08-02 19:03:00
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    ashleyleyton15@gmail.com   -   
+NOMBRE: Ashley   -   
+CONTENIDO:    <h2>Hola Ashley,</h2>
+<p>En este reporte deseamos hablarte sobre tu nuevo pago, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>                    
+A fecha de 2024-08-02 Tu pago ha sido rechazado por el area de validaciones<br><br><br> 
+Con ID pago: 309<br><br>
+Con ID deuda: 80<br><br>
+Con un valor pago: 50<br><br>
+Con un valor inicial (deuda): 13200<br><br>
+Con un valor actual (deuda): 7900<br><br>
+Con un interes total (deuda): 0<br><br>
+Con un valor total (deuda): 7900<br><br>
+Saludos, <br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva pago   -   
+RUTA_ARCHIVO:    ../ComprovantesPago/Rechazados/Pago66ad0c1364aa7.png   -   
+FECHA_Y_HORA:    2024-08-02 19:09:00
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    respaldosadmdeudas@gmail.com   -   
+NOMBRE: Heider   -   
+CONTENIDO:    <h2>Hola Admin,</h2>
+                    <p>Este es un reporte de respaldo:<br><br><br>
+                    Se hace respaldo a fecha de 2024-08-02<br><br><br>                    
+                    Saludos,<br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    respaldo2024-08-02   -   
+RUTA_ARCHIVO:    ../Respaldos/Respaldo-2024-08-02.sql   -   
+FECHA_Y_HORA:    2024-08-02 14:00:01
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    ashleyleyton15@gmail.com   -   
+NOMBRE: Ashley   -   
+CONTENIDO:    <h2>Hola Ashley,</h2>
+<p>En este reporte deseamos hablarte sobre tu nuevo pago, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>                    
+A fecha de 2024-08-02 El pago que acabas de registrar ha ido al area de validaciones<br><br><br> 
+Con ID pago: 317<br><br>
+Con ID deuda: 107<br><br>
+Con un valor pago: 2000<br><br>
+Con un valor inicial (deuda): 33000<br><br>
+Con un valor actual (deuda): 30000<br><br>
+Con un interes total (deuda): 0<br><br>
+Con un valor total (deuda): 30000<br><br>
+Saludos, <br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva pago   -   
+RUTA_ARCHIVO:    ../ComprovantesPago/PorConfirmar/Pago66adab0b6a302.png   -   
+FECHA_Y_HORA:    2024-08-02 22:59:07
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    ashleyleyton15@gmail.com   -   
+NOMBRE: Ashley   -   
+CONTENIDO:    <h2>Hola Ashley,</h2>
+<p>En este reporte deseamos hablarte sobre tu nuevo pago, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>                    
+A fecha de 2024-08-03 Tu pago ha sido rechazado por el area de validaciones<br><br><br> 
+Con ID pago: 317<br><br>
+Con ID deuda: 107<br><br>
+Con un valor pago: 2000<br><br>
+Con un valor inicial (deuda): 33000<br><br>
+Con un valor actual (deuda): 30000<br><br>
+Con un interes total (deuda): 0<br><br>
+Con un valor total (deuda): 30000<br><br>
+Saludos, <br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva pago   -   
+RUTA_ARCHIVO:    ../ComprovantesPago/Rechazados/Pago66adab0b6a302.png   -   
+FECHA_Y_HORA:    2024-08-03 06:01:06
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    heiderleyton33@gmail.com   -   
+NOMBRE: Heider   -   
+CONTENIDO:    <h2>Hola Heider,</h2>
+<p>En este reporte deseamos hablarte sobre tu nuevo pago, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>                    
+A fecha de 2024-08-03 Tu pago ha sido rechazado por el area de validaciones<br><br><br> 
+Con ID pago: 316<br><br>
+Con ID deuda: 106<br><br>
+Con un valor pago: 50<br><br>
+Con un valor inicial (deuda): 50<br><br>
+Con un valor actual (deuda): 50<br><br>
+Con un interes total (deuda): 0<br><br>
+Con un valor total (deuda): 50<br><br>
+Saludos, <br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva pago   -   
+RUTA_ARCHIVO:    ../ComprovantesPago/Rechazados/Pago66ac43636c135.png   -   
+FECHA_Y_HORA:    2024-08-03 06:01:20
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    ashleyleyton15@gmail.com   -   
+NOMBRE: Ashley   -   
+CONTENIDO:    <h2>Hola Ashley,</h2>
+<p>En este reporte deseamos hablarte sobre tu nuevo pago, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>                    
+A fecha de 2024-08-02 El pago que acabas de registrar ha ido al area de validaciones<br><br><br> 
+Con ID pago: 318<br><br>
+Con ID deuda: 107<br><br>
+Con un valor pago: 2000<br><br>
+Con un valor inicial (deuda): 33000<br><br>
+Con un valor actual (deuda): 30000<br><br>
+Con un interes total (deuda): 0<br><br>
+Con un valor total (deuda): 30000<br><br>
+Saludos, <br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva pago   -   
+RUTA_ARCHIVO:    ../ComprovantesPago/PorConfirmar/Pago66adab95cdcd1.png   -   
+FECHA_Y_HORA:    2024-08-02 23:01:25
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    ashleyleyton15@gmail.com   -   
+NOMBRE: Ashley   -   
+CONTENIDO:    <h2>Hola Ashley,</h2>
+<p>En este reporte deseamos hablarte sobre tu nuevo pago, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>                    
+A fecha de 2024-08-03 Tu pago ha sido aceptado por el area de validaciones<br><br><br> 
+Con ID pago: 318<br><br>
+Con ID deuda: 107<br><br>
+Con un valor pago: 2000<br><br>
+Con un valor inicial (deuda): 33000<br><br>
+Con un valor actual (deuda): 28000<br><br>
+Con un interes total (deuda): 0<br><br>
+Con un valor total (deuda): 28000<br><br>
+Saludos, <br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva pago   -   
+RUTA_ARCHIVO:    ../ComprovantesPago/Confirmados/Pago66adab95cdcd1.png   -   
+FECHA_Y_HORA:    2024-08-03 06:02:02
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    respaldosadmdeudas@gmail.com   -   
+NOMBRE: Heider   -   
+CONTENIDO:    <h2>Hola Admin,</h2>
+                    <p>Este es un reporte de respaldo:<br><br><br>
+                    Se hace respaldo a fecha de 2024-08-03<br><br><br>                    
+                    Saludos,<br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    respaldo2024-08-03   -   
+RUTA_ARCHIVO:    ../Respaldos/Respaldo-2024-08-03.sql   -   
+FECHA_Y_HORA:    2024-08-03 14:00:01
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    respaldosadmdeudas@gmail.com   -   
+NOMBRE: Heider   -   
+CONTENIDO:    <h2>Hola Admin,</h2>
+                    <p>Este es un reporte de respaldo:<br><br><br>
+                    Se hace respaldo a fecha de 2024-08-03<br><br><br>                    
+                    Saludos,<br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    respaldo2024-08-03   -   
+RUTA_ARCHIVO:    ../../Respaldos/RespaldosBD/Respaldo-2024-08-03.sql   -   
+FECHA_Y_HORA:    2024-08-03 14:33:55
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    respaldosadmdeudas@gmail.com   -   
+NOMBRE: Heider   -   
+CONTENIDO:    <h2>Hola Admin,</h2>
+                    <p>Este es un reporte de respaldo de tu APLICATIVO:<br><br><br>
+                    Se hace respaldo a fecha de 2024-08-03<br><br><br>                    
+                    Saludos,<br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    respaldo2024-08-03   -   
+RUTA_ARCHIVO:    ../../Respaldos/RespaldosAPP/Respaldo-2024-08-03.rar   -   
+FECHA_Y_HORA:    2024-08-03 14:45:46
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    respaldosadmdeudas@gmail.com   -   
+NOMBRE: Heider   -   
+CONTENIDO:    <h2>Hola Admin,</h2>
+                    <p>Este es un reporte de respaldo de tu APLICATIVO:<br><br><br>
+                    Se hace respaldo a fecha de 2024-08-03<br><br><br>                    
+                    Saludos,<br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    respaldo2024-08-03   -   
+RUTA_ARCHIVO:    ../../Respaldos/RespaldosAPP/Respaldo-2024-08-03.rar   -   
+FECHA_Y_HORA:    2024-08-03 14:48:32
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    respaldosadmdeudas@gmail.com   -   
+NOMBRE: Heider   -   
+CONTENIDO:    <h2>Hola Admin,</h2>
+                    <p>Este es un reporte de respaldo de tu APLICATIVO:<br><br><br>
+                    Se hace respaldo a fecha de 2024-08-03<br><br><br>                    
+                    Saludos,<br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    respaldo2024-08-03   -   
+RUTA_ARCHIVO:    ../../Respaldos/RespaldosAPP/Respaldo-2024-08-03.rar   -   
+FECHA_Y_HORA:    2024-08-03 14:55:19
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    ashleyleyton15@gmail.com   -   
+NOMBRE: Ashley   -   
+CONTENIDO:    <h2>Hola Ashley,</h2>
+<p>En este reporte deseamos hablarte sobre tu nuevo pago, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>                    
+A fecha de 2024-08-04 El pago que acabas de registrar ha ido al area de validaciones<br><br><br> 
+Con ID pago: 319<br><br>
+Con ID deuda: 107<br><br>
+Con un valor pago: 10000<br><br>
+Con un valor inicial (deuda): 33000<br><br>
+Con un valor actual (deuda): 28000<br><br>
+Con un interes total (deuda): 0<br><br>
+Con un valor total (deuda): 28000<br><br>
+Saludos, <br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva pago   -   
+RUTA_ARCHIVO:    ../ComprovantesPago/PorConfirmar/Pago66b044adaecc3.png   -   
+FECHA_Y_HORA:    2024-08-04 22:19:09
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    respaldosadmdeudas@gmail.com   -   
+NOMBRE: Administrados   -   
+CONTENIDO:    <h2>Hola Administrados,</h2>
+<p>En este reporte deseamos hablarte sobre tu nuevo pago, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>                    
+A fecha de 2024-08-04 Acaban de realizar un pago, VE A COMPROVARLO ADMIN!!!<br><br><br> 
+Con ID pago: 319<br><br>
+Con ID deuda: 107<br><br>
+Con un valor pago: 10000<br><br>
+Con un valor inicial (deuda): 33000<br><br>
+Con un valor actual (deuda): 28000<br><br>
+Con un interes total (deuda): 0<br><br>
+Con un valor total (deuda): 28000<br><br>
+Saludos, <br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva pago   -   
+RUTA_ARCHIVO:    ../ComprovantesPago/PorConfirmar/Pago66b044adaecc3.png   -   
+FECHA_Y_HORA:    2024-08-04 22:19:12
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    ashleyleyton15@gmail.com   -   
+NOMBRE: Ashley   -   
+CONTENIDO:    <h2>Hola Ashley,</h2>
+<p>En este reporte deseamos hablarte sobre tu nuevo pago, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>                    
+A fecha de 2024-08-05 Tu pago ha sido aceptado por el area de validaciones<br><br><br> 
+Con ID pago: 319<br><br>
+Con ID deuda: 107<br><br>
+Con un valor pago: 10000<br><br>
+Con un valor inicial (deuda): 33000<br><br>
+Con un valor actual (deuda): 18000<br><br>
+Con un interes total (deuda): 0<br><br>
+Con un valor total (deuda): 18000<br><br>
+Saludos, <br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva pago   -   
+RUTA_ARCHIVO:    ../ComprovantesPago/Confirmados/Pago66b044adaecc3.png   -   
+FECHA_Y_HORA:    2024-08-05 05:19:21
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    ashleyleyton15@gmail.com   -   
+NOMBRE: Ashley   -   
+CONTENIDO:    <h2>Hola Ashley,</h2>
+<p>En este reporte deseamos hablarte sobre tu nuevo pago, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>                    
+A fecha de 2024-08-04 El pago que acabas de registrar ha ido al area de validaciones<br><br><br> 
+Con ID pago: 320<br><br>
+Con ID deuda: 107<br><br>
+Con un valor pago: 1000<br><br>
+Con un valor inicial (deuda): 33000<br><br>
+Con un valor actual (deuda): 18000<br><br>
+Con un interes total (deuda): 0<br><br>
+Con un valor total (deuda): 18000<br><br>
+Saludos, <br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva pago   -   
+RUTA_ARCHIVO:    ../ComprovantesPago/PorConfirmar/Pago66b044fbbc9f6.png   -   
+FECHA_Y_HORA:    2024-08-04 22:20:27
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    respaldosadmdeudas@gmail.com   -   
+NOMBRE: Administrados   -   
+CONTENIDO:    <h2>Hola Administrados,</h2>
+<p>En este reporte deseamos hablarte sobre tu nuevo pago, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>                    
+A fecha de 2024-08-04 Acaban de realizar un pago, VE A COMPROVARLO ADMIN!!!<br><br><br> 
+Con ID pago: 320<br><br>
+Con ID deuda: 107<br><br>
+Con un valor pago: 1000<br><br>
+Con un valor inicial (deuda): 33000<br><br>
+Con un valor actual (deuda): 18000<br><br>
+Con un interes total (deuda): 0<br><br>
+Con un valor total (deuda): 18000<br><br>
+Saludos, <br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva pago   -   
+RUTA_ARCHIVO:    ../ComprovantesPago/PorConfirmar/Pago66b044fbbc9f6.png   -   
+FECHA_Y_HORA:    2024-08-04 22:20:29
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    ashleyleyton15@gmail.com   -   
+NOMBRE: Ashley   -   
+CONTENIDO:    <h2>Hola Ashley,</h2>
+<p>En este reporte deseamos hablarte sobre tu nuevo pago, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>                    
+A fecha de 2024-08-05 Tu pago ha sido aceptado por el area de validaciones<br><br><br> 
+Con ID pago: 320<br><br>
+Con ID deuda: 107<br><br>
+Con un valor pago: 1000<br><br>
+Con un valor inicial (deuda): 33000<br><br>
+Con un valor actual (deuda): 17000<br><br>
+Con un interes total (deuda): 0<br><br>
+Con un valor total (deuda): 17000<br><br>
+Saludos, <br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva pago   -   
+RUTA_ARCHIVO:    ../ComprovantesPago/Confirmados/Pago66b044fbbc9f6.png   -   
+FECHA_Y_HORA:    2024-08-05 05:20:39
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    ashleyleyton15@gmail.com   -   
+NOMBRE: Ashley   -   
+CONTENIDO:    <h2>Hola Ashley,</h2>
+<p>En este reporte deseamos hablarte sobre tu nuevo pago, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>                    
+A fecha de 2024-08-05 El pago que acabas de registrar ha ido al area de validaciones<br><br><br> 
+Con ID pago: 321<br><br>
+Con ID deuda: 107<br><br>
+Con un valor pago: 17000<br><br>
+Con un valor inicial (deuda): 33000<br><br>
+Con un valor actual (deuda): 17000<br><br>
+Con un interes total (deuda): 0<br><br>
+Con un valor total (deuda): 17000<br><br>
+Saludos, <br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva pago   -   
+RUTA_ARCHIVO:    ../ComprovantesPago/PorConfirmar/Pago66b14442c20ab.png   -   
+FECHA_Y_HORA:    2024-08-05 16:29:38
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    respaldosadmdeudas@gmail.com   -   
+NOMBRE: Administrados   -   
+CONTENIDO:    <h2>Hola Administrados,</h2>
+<p>En este reporte deseamos hablarte sobre tu nuevo pago, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>                    
+A fecha de 2024-08-05 Acaban de realizar un pago, VE A COMPROVARLO ADMIN!!!<br><br><br> 
+Con ID pago: 321<br><br>
+Con ID deuda: 107<br><br>
+Con un valor pago: 17000<br><br>
+Con un valor inicial (deuda): 33000<br><br>
+Con un valor actual (deuda): 17000<br><br>
+Con un interes total (deuda): 0<br><br>
+Con un valor total (deuda): 17000<br><br>
+Saludos, <br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva pago   -   
+RUTA_ARCHIVO:    ../ComprovantesPago/PorConfirmar/Pago66b14442c20ab.png   -   
+FECHA_Y_HORA:    2024-08-05 16:29:41
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    ashleyleyton15@gmail.com   -   
+NOMBRE: Ashley   -   
+CONTENIDO:    <h2>Hola Ashley,</h2>
+<p>En este reporte deseamos hablarte sobre tu nuevo pago, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>                    
+A fecha de 2024-08-05 Tu pago ha sido aceptado y ha finiquitado una deuda<br><br><br> 
+Con ID pago: 321<br><br>
+Con ID deuda: 107<br><br>
+Con un valor pago: 17000<br><br>
+Con un valor inicial (deuda): 33000<br><br>
+Con un valor actual (deuda): 0<br><br>
+Con un interes total (deuda): 0<br><br>
+Con un valor total (deuda): 0<br><br>
+Saludos, <br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva pago   -   
+RUTA_ARCHIVO:    ../ComprovantesPago/Confirmados/Pago66b14442c20ab.png   -   
+FECHA_Y_HORA:    2024-08-05 23:30:24
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    heiderleyton33@gmail.com   -   
+NOMBRE: Heider   -   
+CONTENIDO:    <h2>Hola Heider,</h2>
+<p>En este reporte deseamos hablarte sobre tu nuevo pago, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>                    
+A fecha de 2024-08-15 Se ha registrado un nuevo pago y ha finiquitado una deuda<br><br><br> 
+Con ID pago: 323<br><br>
+Con ID deuda: 106<br><br>
+Con un valor pago: 50<br><br>
+Con un valor inicial (deuda): 50<br><br>
+Con un valor actual (deuda): 0<br><br>
+Con un interes total (deuda): 0<br><br>
+Con un valor total (deuda): 0<br><br>
+Saludos, <br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva pago   -   
+RUTA_ARCHIVO:    ../ComprovantesPago/Confirmados/.png   -   
+FECHA_Y_HORA:    2024-08-15 19:15:15
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    heiderleyton33@gmail.com   -   
+NOMBRE: Heider   -   
+CONTENIDO:    <h2>Hola Heider,</h2>
+                    <p>En este reporte deseamos hablarte sobre tu nueva deuda, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>
+                    A fecha de 2024-08-15 Se ha registrado una nueva deuda.<br><br><br>
+                    Con ID: 114<br><br>
+                    Con un valor inicial: 1000<br><br>
+                    Con un valor actual: 1000<br><br>
+                    Saludos,<br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva deuda   -   
+RUTA_ARCHIVO:    ../ComprovantesDeuda/Aprovados/.png   -   
+FECHA_Y_HORA:    2024-08-15 19:17:05
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    heiderleyton33@gmail.com   -   
+NOMBRE: Heider   -   
+CONTENIDO:    <h2>Hola Heider,</h2>
+<p>En este reporte deseamos hablarte sobre tu nuevo pago, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>                    
+A fecha de 2024-08-15 Se ha registrado un nuevo pago<br><br><br> 
+Con ID pago: 323<br><br>
+Con ID deuda: 106<br><br>
+Con un valor pago: 50<br><br>
+Con un valor inicial (deuda): 50<br><br>
+Con un valor actual (deuda): 0<br><br>
+Con un interes total (deuda): 0<br><br>
+Con un valor total (deuda): 0<br><br>
+Saludos, <br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva pago   -   
+RUTA_ARCHIVO:    ../ComprovantesPago/Confirmados/.png   -   
+FECHA_Y_HORA:    2024-08-15 19:18:28
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    heiderleyton33@gmail.com   -   
+NOMBRE: Heider   -   
+CONTENIDO:    <h2>Hola Heider,</h2>
+<p>En este reporte deseamos hablarte sobre tu nuevo pago, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>                    
+A fecha de 2024-08-15 Se ha registrado un nuevo pago<br><br><br> 
+Con ID pago: 323<br><br>
+Con ID deuda: 106<br><br>
+Con un valor pago: 50<br><br>
+Con un valor inicial (deuda): 50<br><br>
+Con un valor actual (deuda): 0<br><br>
+Con un interes total (deuda): 0<br><br>
+Con un valor total (deuda): 0<br><br>
+Saludos, <br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva pago   -   
+RUTA_ARCHIVO:    ../ComprovantesPago/Confirmados/.png   -   
+FECHA_Y_HORA:    2024-08-15 19:28:13
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    heiderleyton33@gmail.com   -   
+NOMBRE: Heider   -   
+CONTENIDO:    <h2>Hola Heider,</h2>
+<p>En este reporte deseamos hablarte sobre tu nuevo pago, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>                    
+A fecha de 2024-08-15 Se ha registrado un nuevo pago<br><br><br> 
+Con ID pago: 323<br><br>
+Con ID deuda: 106<br><br>
+Con un valor pago: 50<br><br>
+Con un valor inicial (deuda): 50<br><br>
+Con un valor actual (deuda): 0<br><br>
+Con un interes total (deuda): 0<br><br>
+Con un valor total (deuda): 0<br><br>
+Saludos, <br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva pago   -   
+RUTA_ARCHIVO:    ../ComprovantesPago/Confirmados/.png   -   
+FECHA_Y_HORA:    2024-08-15 19:31:09
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    heiderleyton33@gmail.com   -   
+NOMBRE: Heider   -   
+CONTENIDO:    <h2>Hola Heider,</h2>
+<p>En este reporte deseamos hablarte sobre tu nuevo pago, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>                    
+A fecha de 2024-08-15 Se ha registrado un nuevo pago<br><br><br> 
+Con ID pago: 323<br><br>
+Con ID deuda: 106<br><br>
+Con un valor pago: 50<br><br>
+Con un valor inicial (deuda): 50<br><br>
+Con un valor actual (deuda): 0<br><br>
+Con un interes total (deuda): 0<br><br>
+Con un valor total (deuda): 0<br><br>
+Saludos, <br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva pago   -   
+RUTA_ARCHIVO:    ../ComprovantesPago/Confirmados/.png   -   
+FECHA_Y_HORA:    2024-08-15 19:32:33
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    heiderleyton33@gmail.com   -   
+NOMBRE: Heider   -   
+CONTENIDO:    <h2>Hola Heider,</h2>
+<p>En este reporte deseamos hablarte sobre tu nuevo pago, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>                    
+A fecha de 2024-08-15 Se ha registrado un nuevo pago<br><br><br> 
+Con ID pago: 330<br><br>
+Con ID deuda: 114<br><br>
+Con un valor pago: 50<br><br>
+Con un valor inicial (deuda): 1000<br><br>
+Con un valor actual (deuda): 650<br><br>
+Con un interes total (deuda): 0<br><br>
+Con un valor total (deuda): 650<br><br>
+Saludos, <br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva pago   -   
+RUTA_ARCHIVO:    ../ComprovantesPago/Confirmados/Pago66bea2452ea75.png   -   
+FECHA_Y_HORA:    2024-08-15 19:50:13
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    edwin.leyton1992@gmail.com   -   
+NOMBRE: Edwin Leyton    -   
+CONTENIDO:    <h2>Hola Edwin Leyton ,</h2>
+                    <p>En este reporte deseamos hablarte sobre tu nueva deuda, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>
+                    A fecha de 2024-08-19 Se ha registrado una nueva deuda.<br><br><br>
+                    Con ID: 115<br><br>
+                    Con un valor inicial: 20000<br><br>
+                    Con un valor actual: 22000<br><br>
+                    Saludos,<br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva deuda   -   
+RUTA_ARCHIVO:    ../ComprovantesDeuda/Aprovados/Deuda66c3c1fe89570.png   -   
+FECHA_Y_HORA:    2024-08-19 17:06:54
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    edwin.leyton1992@gmail.com   -   
+NOMBRE: Edwin Leyton    -   
+CONTENIDO:    <h2>Hola Edwin Leyton ,</h2>
+<p>En este reporte deseamos hablarte sobre tu nuevo pago, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>                    
+A fecha de 2024-08-19 Se ha registrado un nuevo pago<br><br><br> 
+Con ID pago: 332<br><br>
+Con ID deuda: 77<br><br>
+Con un valor pago: 10000<br><br>
+Con un valor inicial (deuda): 330000<br><br>
+Con un valor actual (deuda): 300000<br><br>
+Con un interes total (deuda): 0<br><br>
+Con un valor total (deuda): 300000<br><br>
+Saludos, <br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva pago   -   
+RUTA_ARCHIVO:    ../ComprovantesPago/Confirmados/Pago66c40406e6d8b.png   -   
+FECHA_Y_HORA:    2024-08-19 21:48:39
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    edwin.leyton1992@gmail.com   -   
+NOMBRE: Edwin Leyton    -   
+CONTENIDO:    <h2>Hola Edwin Leyton ,</h2>
+<p>En este reporte deseamos hablarte sobre tu nuevo pago, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>                    
+A fecha de 2024-08-19 Se ha registrado un nuevo pago<br><br><br> 
+Con ID pago: 333<br><br>
+Con ID deuda: 115<br><br>
+Con un valor pago: 21000<br><br>
+Con un valor inicial (deuda): 22000<br><br>
+Con un valor actual (deuda): 1000<br><br>
+Con un interes total (deuda): 0<br><br>
+Con un valor total (deuda): 1000<br><br>
+Saludos, <br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva pago   -   
+RUTA_ARCHIVO:    ../ComprovantesPago/Confirmados/Pago66c4042a2095f.png   -   
+FECHA_Y_HORA:    2024-08-19 21:49:14
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    edwin.leyton1992@gmail.com   -   
+NOMBRE: Edwin Leyton    -   
+CONTENIDO:    <h2>Hola Edwin Leyton ,</h2>
+<p>En este reporte deseamos hablarte sobre tu nuevo pago, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>                    
+A fecha de 2024-08-21 Se ha registrado un nuevo pago y ha finiquitado una deuda<br><br><br> 
+Con ID pago: 335<br><br>
+Con ID deuda: 115<br><br>
+Con un valor pago: 1000<br><br>
+Con un valor inicial (deuda): 22000<br><br>
+Con un valor actual (deuda): 0<br><br>
+Con un interes total (deuda): 0<br><br>
+Con un valor total (deuda): 0<br><br>
+Saludos, <br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva pago   -   
+RUTA_ARCHIVO:    ../ComprovantesPago/Confirmados/Pago66c63790b93b6.png   -   
+FECHA_Y_HORA:    2024-08-21 13:53:05
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    edwin.leyton1992@gmail.com   -   
+NOMBRE: Edwin Leyton    -   
+CONTENIDO:    <h2>Hola Edwin Leyton ,</h2>
+<p>En este reporte deseamos hablarte sobre tu nuevo pago, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>                    
+A fecha de 2024-08-21 Se ha registrado un nuevo pago<br><br><br> 
+Con ID pago: 336<br><br>
+Con ID deuda: 77<br><br>
+Con un valor pago: 39000<br><br>
+Con un valor inicial (deuda): 330000<br><br>
+Con un valor actual (deuda): 251000<br><br>
+Con un interes total (deuda): 0<br><br>
+Con un valor total (deuda): 251000<br><br>
+Saludos, <br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva pago   -   
+RUTA_ARCHIVO:    ../ComprovantesPago/Confirmados/Pago66c637ae3b2b2.png   -   
+FECHA_Y_HORA:    2024-08-21 13:53:34
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    anllyleyton58@gmail.com   -   
+NOMBRE: Anlly   -   
+CONTENIDO:    <h2>Hola Anlly,</h2>
+<p>En este reporte deseamos hablarte sobre tu nuevo pago, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>                    
+A fecha de 2024-08-28 Tu pago ha sido aceptado y ha finiquitado una deuda<br><br><br> 
+Con ID pago: 337<br><br>
+Con ID deuda: 105<br><br>
+Con un valor pago: 16500<br><br>
+Con un valor inicial (deuda): 16500<br><br>
+Con un valor actual (deuda): 0<br><br>
+Con un interes total (deuda): 0<br><br>
+Con un valor total (deuda): 0<br><br>
+Saludos, <br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva pago   -   
+RUTA_ARCHIVO:    ../ComprovantesPago/Confirmados/Pago66ce6cfa38c03.png   -   
+FECHA_Y_HORA:    2024-08-28 02:19:38
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    anllyleyton58@gmail.com   -   
+NOMBRE: Anlly   -   
+CONTENIDO:    <h2>Hola Anlly,</h2>
+<p>En este reporte deseamos hablarte sobre tu nuevo pago, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>                    
+A fecha de 2024-08-28 Tu pago ha sido aceptado por el area de validaciones<br><br><br> 
+Con ID pago: 338<br><br>
+Con ID deuda: 4<br><br>
+Con un valor pago: 23500<br><br>
+Con un valor inicial (deuda): 320000<br><br>
+Con un valor actual (deuda): 320000<br><br>
+Con un interes total (deuda): 222500<br><br>
+Con un valor total (deuda): 542500<br><br>
+Saludos, <br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva pago   -   
+RUTA_ARCHIVO:    ../ComprovantesPago/Confirmados/Pago66ce6d67eb7d3.png   -   
+FECHA_Y_HORA:    2024-08-28 02:21:30
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    heiderleyton33@gmail.com   -   
+NOMBRE: Heider   -   
+CONTENIDO:    <h2>Hola Heider,</h2>
+<p>En este reporte deseamos hablarte sobre tu nuevo pago, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>                    
+A fecha de 2024-08-29 Se ha registrado un nuevo pago<br><br><br> 
+Con ID pago: 347<br><br>
+Con ID deuda: 114<br><br>
+Con un valor pago: 50<br><br>
+Con un valor inicial (deuda): 1000<br><br>
+Con un valor actual (deuda): 300<br><br>
+Con un interes total (deuda): 0<br><br>
+Con un valor total (deuda): 300<br><br>
+Saludos, <br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva pago   -   
+RUTA_ARCHIVO:    ../ComprovantesPago/Confirmados/Pago66d0db62d8f3f.png   -   
+FECHA_Y_HORA:    2024-08-29 15:34:43
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    edwin.leyton1992@gmail.com   -   
+NOMBRE: Edwin Leyton    -   
+CONTENIDO:    <h2>Hola Edwin Leyton ,</h2>
+<p>En este reporte deseamos hablarte sobre tu nuevo pago, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>                    
+A fecha de 2024-08-29 Se ha registrado un nuevo pago<br><br><br> 
+Con ID pago: 348<br><br>
+Con ID deuda: 77<br><br>
+Con un valor pago: 10000<br><br>
+Con un valor inicial (deuda): 330000<br><br>
+Con un valor actual (deuda): 221000<br><br>
+Con un interes total (deuda): 0<br><br>
+Con un valor total (deuda): 221000<br><br>
+Saludos, <br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva pago   -   
+RUTA_ARCHIVO:    ../ComprovantesPago/Confirmados/Pago66d13b1e521f6.png   -   
+FECHA_Y_HORA:    2024-08-29 22:23:10
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    ashleyleyton15@gmail.com   -   
+NOMBRE: Ashley   -   
+CONTENIDO:    <h2>Hola Ashley,</h2>
+                    <p>En este reporte deseamos hablarte sobre tu nueva deuda, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>
+                    A fecha de 2024-09-02 Se ha registrado una nueva deuda.<br><br><br>
+                    Con ID: 116<br><br>
+                    Con un valor inicial: 160700<br><br>
+                    Con un valor actual: 176770.000<br><br>
+                    Saludos,<br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva deuda   -   
+RUTA_ARCHIVO:    ../ComprovantesDeuda/Aprovados/Deuda66d63ee04c06c.png   -   
+FECHA_Y_HORA:    2024-09-02 17:40:32
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    edwin.leyton1992@gmail.com   -   
+NOMBRE: Edwin Leyton    -   
+CONTENIDO:    <h2>Hola Edwin Leyton ,</h2>
+<p>En este reporte deseamos hablarte sobre tu nuevo pago, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>                    
+A fecha de 2024-09-03 Se ha registrado un nuevo pago<br><br><br> 
+Con ID pago: 349<br><br>
+Con ID deuda: 77<br><br>
+Con un valor pago: 10000<br><br>
+Con un valor inicial (deuda): 330000.000<br><br>
+Con un valor actual (deuda): 211000.000<br><br>
+Con un interes total (deuda): 0.000<br><br>
+Con un valor total (deuda): 211000.000<br><br>
+Saludos, <br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva pago   -   
+RUTA_ARCHIVO:    ../ComprovantesPago/Confirmados/Pago66d75e184dec0.png   -   
+FECHA_Y_HORA:    2024-09-03 14:06:00
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    edwin.leyton1992@gmail.com   -   
+NOMBRE: Edwin Leyton    -   
+CONTENIDO:    <h2>Hola Edwin Leyton ,</h2>
+<p>En este reporte deseamos hablarte sobre tu nuevo pago, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>                    
+A fecha de 2024-09-04 Se ha registrado un nuevo pago<br><br><br> 
+Con ID pago: 350<br><br>
+Con ID deuda: 77<br><br>
+Con un valor pago: 10000<br><br>
+Con un valor inicial (deuda): 330000.000<br><br>
+Con un valor actual (deuda): 201000.000<br><br>
+Con un interes total (deuda): 0.000<br><br>
+Con un valor total (deuda): 201000.000<br><br>
+Saludos, <br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva pago   -   
+RUTA_ARCHIVO:    ../ComprovantesPago/Confirmados/Pago66d9065915f38.png   -   
+FECHA_Y_HORA:    2024-09-04 20:16:09
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    edwin.leyton1992@gmail.com   -   
+NOMBRE: Edwin Leyton    -   
+CONTENIDO:    <h2>Hola Edwin Leyton ,</h2>
+<p>En este reporte deseamos hablarte sobre tu nuevo pago, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>                    
+A fecha de 2024-09-05 Se ha registrado un nuevo pago<br><br><br> 
+Con ID pago: 351<br><br>
+Con ID deuda: 77<br><br>
+Con un valor pago: 10000<br><br>
+Con un valor inicial (deuda): 330000.000<br><br>
+Con un valor actual (deuda): 191000.000<br><br>
+Con un interes total (deuda): 0.000<br><br>
+Con un valor total (deuda): 191000.000<br><br>
+Saludos, <br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva pago   -   
+RUTA_ARCHIVO:    ../ComprovantesPago/Confirmados/Pago66da5ee6535d6.png   -   
+FECHA_Y_HORA:    2024-09-05 20:46:14
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    edwin.leyton1992@gmail.com   -   
+NOMBRE: Edwin Leyton    -   
+CONTENIDO:    <h2>Hola Edwin Leyton ,</h2>
+<p>En este reporte deseamos hablarte sobre tu nuevo pago, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>                    
+A fecha de 2024-09-08 Se ha registrado un nuevo pago<br><br><br> 
+Con ID pago: 352<br><br>
+Con ID deuda: 77<br><br>
+Con un valor pago: 10000<br><br>
+Con un valor inicial (deuda): 330000.000<br><br>
+Con un valor actual (deuda): 181000.000<br><br>
+Con un interes total (deuda): 0.000<br><br>
+Con un valor total (deuda): 181000.000<br><br>
+Saludos, <br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva pago   -   
+RUTA_ARCHIVO:    ../ComprovantesPago/Confirmados/Pago66dde415ceb44.png   -   
+FECHA_Y_HORA:    2024-09-08 12:51:18
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    anllyleyton58@gmail.com   -   
+NOMBRE: Anlly   -   
+CONTENIDO:    <h2>Hola Anlly,</h2>
+                    <p>En este reporte deseamos hablarte sobre tu nueva deuda, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>
+                    A fecha de 2024-09-08 Se ha registrado una nueva deuda.<br><br><br>
+                    Con ID: 117<br><br>
+                    Con un valor inicial: 22000<br><br>
+                    Con un valor actual: 24200.000<br><br>
+                    Saludos,<br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva deuda   -   
+RUTA_ARCHIVO:    ../ComprovantesDeuda/Aprovados/Deuda66de16858e836.png   -   
+FECHA_Y_HORA:    2024-09-08 16:26:29
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    ashleyleyton15@gmail.com   -   
+NOMBRE: Ashley   -   
+CONTENIDO:    <h2>Hola Ashley,</h2>
+<p>En este reporte deseamos hablarte sobre tu nuevo pago, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>                    
+A fecha de 2024-09-10 Se ha registrado un nuevo pago<br><br><br> 
+Con ID pago: 353<br><br>
+Con ID deuda: 116<br><br>
+Con un valor pago: 5000<br><br>
+Con un valor inicial (deuda): 176770.000<br><br>
+Con un valor actual (deuda): 171800.000<br><br>
+Con un interes total (deuda): 0.000<br><br>
+Con un valor total (deuda): 171800.000<br><br>
+Saludos, <br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva pago   -   
+RUTA_ARCHIVO:    ../ComprovantesPago/Confirmados/Pago66e0cc88f0aa7.png   -   
+FECHA_Y_HORA:    2024-09-10 17:47:37
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    ashleyleyton15@gmail.com   -   
+NOMBRE: Ashley   -   
+CONTENIDO:    <h2>Hola Ashley,</h2>
+                    <p>En este reporte deseamos hablarte sobre tu nueva deuda, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>
+                    A fecha de 2024-09-12 Se ha registrado una nueva deuda.<br><br><br>
+                    Con ID: 118<br><br>
+                    Con un valor inicial: 10000<br><br>
+                    Con un valor actual: 11000.000<br><br>
+                    Saludos,<br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva deuda   -   
+RUTA_ARCHIVO:    ../ComprovantesDeuda/Aprovados/Deuda66e373abc0e4f.png   -   
+FECHA_Y_HORA:    2024-09-12 18:05:15
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    anllyleyton58@gmail.com   -   
+NOMBRE: Anlly   -   
+CONTENIDO:    <h2>Hola Anlly,</h2>
+<p>En este reporte deseamos hablarte sobre tu nuevo pago, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>                    
+A fecha de 2024-09-13 Se ha registrado un nuevo pago<br><br><br> 
+Con ID pago: 354<br><br>
+Con ID deuda: 117<br><br>
+Con un valor pago: 10000<br><br>
+Con un valor inicial (deuda): 24200.000<br><br>
+Con un valor actual (deuda): 14200.000<br><br>
+Con un interes total (deuda): 0.000<br><br>
+Con un valor total (deuda): 14200.000<br><br>
+Saludos, <br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva pago   -   
+RUTA_ARCHIVO:    ../ComprovantesPago/Confirmados/Pago66e4cdeea307c.png   -   
+FECHA_Y_HORA:    2024-09-13 18:42:38
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    marlon199604@gmail.com   -   
+NOMBRE: Marlon   -   
+CONTENIDO:    <h2>Hola Marlon,</h2>
+                    <p>En este reporte deseamos hablarte sobre tu nueva deuda, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>
+                    A fecha de 2024-09-14 Se ha registrado una nueva deuda.<br><br><br>
+                    Con ID: 119<br><br>
+                    Con un valor inicial: 150400<br><br>
+                    Con un valor actual: 165440.000<br><br>
+                    Saludos,<br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva deuda   -   
+RUTA_ARCHIVO:    ../ComprovantesDeuda/Aprovados/Deuda66e60ff2d4915.png   -   
+FECHA_Y_HORA:    2024-09-14 17:36:35
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    anllyleyton58@gmail.com   -   
+NOMBRE: Anlly   -   
+CONTENIDO:    <h2>Hola Anlly,</h2>
+<p>En este reporte deseamos hablarte sobre tu nuevo pago, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>                    
+A fecha de 2024-09-14 Se ha registrado un nuevo pago y ha finiquitado una deuda<br><br><br> 
+Con ID pago: 355<br><br>
+Con ID deuda: 117<br><br>
+Con un valor pago: 14200<br><br>
+Con un valor inicial (deuda): 24200.000<br><br>
+Con un valor actual (deuda): 0.000<br><br>
+Con un interes total (deuda): 0.000<br><br>
+Con un valor total (deuda): 0.000<br><br>
+Saludos, <br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva pago   -   
+RUTA_ARCHIVO:    ../ComprovantesPago/Confirmados/Pago66e62c6d4535e.png   -   
+FECHA_Y_HORA:    2024-09-14 19:38:05
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    ashleyleyton15@gmail.com   -   
+NOMBRE: Ashley   -   
+CONTENIDO:    <h2>Hola Ashley,</h2>
+<p>En este reporte deseamos hablarte sobre tu nuevo pago, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>                    
+A fecha de 2024-09-17 Se ha registrado un nuevo pago y ha finiquitado una deuda<br><br><br> 
+Con ID pago: 356<br><br>
+Con ID deuda: 118<br><br>
+Con un valor pago: 11000<br><br>
+Con un valor inicial (deuda): 11000.000<br><br>
+Con un valor actual (deuda): 0.000<br><br>
+Con un interes total (deuda): 0.000<br><br>
+Con un valor total (deuda): 0.000<br><br>
+Saludos, <br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva pago   -   
+RUTA_ARCHIVO:    ../ComprovantesPago/Confirmados/Pago66ea183897b85.png   -   
+FECHA_Y_HORA:    2024-09-17 19:00:57
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    ashleyleyton15@gmail.com   -   
+NOMBRE: Ashley   -   
+CONTENIDO:    <h2>Hola Ashley,</h2>
+<p>En este reporte deseamos hablarte sobre tu nuevo pago, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>                    
+A fecha de 2024-09-17 Se ha registrado un nuevo pago<br><br><br> 
+Con ID pago: 357<br><br>
+Con ID deuda: 116<br><br>
+Con un valor pago: 52300<br><br>
+Con un valor inicial (deuda): 176770.000<br><br>
+Con un valor actual (deuda): 119500.000<br><br>
+Con un interes total (deuda): 0.000<br><br>
+Con un valor total (deuda): 119500.000<br><br>
+Saludos, <br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva pago   -   
+RUTA_ARCHIVO:    ../ComprovantesPago/Confirmados/Pago66ea18634d76a.png   -   
+FECHA_Y_HORA:    2024-09-17 19:01:39
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    anllyleyton58@gmail.com   -   
+NOMBRE: Anlly   -   
+CONTENIDO:    <h2>Hola Anlly,</h2>
+                    <p>En este reporte deseamos hablarte sobre tu nueva deuda, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>
+                    A fecha de 2024-09-18 Se ha registrado una nueva deuda.<br><br><br>
+                    Con ID: 120<br><br>
+                    Con un valor inicial: 284150<br><br>
+                    Con un valor actual: 312565.000<br><br>
+                    Saludos,<br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva deuda   -   
+RUTA_ARCHIVO:    ../ComprovantesDeuda/Aprovados/Deuda66eba7fe94c44.png   -   
+FECHA_Y_HORA:    2024-09-18 23:26:38
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    ashleyleyton15@gmail.com   -   
+NOMBRE: Ashley   -   
+CONTENIDO:    <h2>Hola Ashley,</h2>
+<p>En este reporte deseamos hablarte sobre tu nuevo pago, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>                    
+A fecha de 2024-09-22 Se ha registrado un nuevo pago<br><br><br> 
+Con ID pago: 358<br><br>
+Con ID deuda: 116<br><br>
+Con un valor pago: 50000<br><br>
+Con un valor inicial (deuda): 176770.000<br><br>
+Con un valor actual (deuda): 69500.000<br><br>
+Con un interes total (deuda): 0.000<br><br>
+Con un valor total (deuda): 69500.000<br><br>
+Saludos, <br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva pago   -   
+RUTA_ARCHIVO:    ../ComprovantesPago/Confirmados/Pago66f0db58093ce.png   -   
+FECHA_Y_HORA:    2024-09-22 22:07:04
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    anllyleyton58@gmail.com   -   
+NOMBRE: Anlly   -   
+CONTENIDO:    <h2>Hola Anlly,</h2>
+                    <p>En este reporte deseamos hablarte sobre tu nueva deuda, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>
+                    A fecha de 2024-09-25 Se ha registrado una nueva deuda.<br><br><br>
+                    Con ID: 121<br><br>
+                    Con un valor inicial: 109000<br><br>
+                    Con un valor actual: 119900.000<br><br>
+                    Saludos,<br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva deuda   -   
+RUTA_ARCHIVO:    ../ComprovantesDeuda/Aprovados/Deuda66f45930e5614.png   -   
+FECHA_Y_HORA:    2024-09-25 13:40:49
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    ashleyleyton15@gmail.com   -   
+NOMBRE: Ashley   -   
+CONTENIDO:    <h2>Hola Ashley,</h2>
+                    <p>En este reporte deseamos hablarte sobre tu nueva deuda, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>
+                    A fecha de 2024-09-25 Se ha registrado una nueva deuda.<br><br><br>
+                    Con ID: 122<br><br>
+                    Con un valor inicial: 109000<br><br>
+                    Con un valor actual: 119900.000<br><br>
+                    Saludos,<br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva deuda   -   
+RUTA_ARCHIVO:    ../ComprovantesDeuda/Aprovados/Deuda66f45b41969ac.png   -   
+FECHA_Y_HORA:    2024-09-25 13:49:37
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    anllyleyton58@gmail.com   -   
+NOMBRE: Anlly   -   
+CONTENIDO:    <h2>Hola Anlly,</h2>
+                    <p>En este reporte mensual deseamos avivar nuestros lazos actuales, por ello, desde AdministradosHD queremos recordarte que:<br><br><br>
+                    A fecha de 2024-09-25<br><br>
+                    Nos unen: 1702476.340 deseos Colombianos<br><br>
+                    Saludos,<br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE MENSUAL - total en deudas   -   
+RUTA_ARCHIVO:       -   
+FECHA_Y_HORA:    2024-09-25 21:41:44
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    ashleyleyton15@gmail.com   -   
+NOMBRE: Ashley   -   
+CONTENIDO:    <h2>Hola Ashley,</h2>
+                    <p>En este reporte mensual deseamos avivar nuestros lazos actuales, por ello, desde AdministradosHD queremos recordarte que:<br><br><br>
+                    A fecha de 2024-09-25<br><br>
+                    Nos unen: 189400.000 deseos Colombianos<br><br>
+                    Saludos,<br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE MENSUAL - total en deudas   -   
+RUTA_ARCHIVO:       -   
+FECHA_Y_HORA:    2024-09-25 21:41:46
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    edwin.leyton1992@gmail.com   -   
+NOMBRE: Edwin Leyton    -   
+CONTENIDO:    <h2>Hola Edwin Leyton ,</h2>
+                    <p>En este reporte mensual deseamos avivar nuestros lazos actuales, por ello, desde AdministradosHD queremos recordarte que:<br><br><br>
+                    A fecha de 2024-09-25<br><br>
+                    Nos unen: 3104433.333 deseos Colombianos<br><br>
+                    Saludos,<br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE MENSUAL - total en deudas   -   
+RUTA_ARCHIVO:       -   
+FECHA_Y_HORA:    2024-09-25 21:41:48
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    heiderleyton33@gmail.com   -   
+NOMBRE: Heider   -   
+CONTENIDO:    <h2>Hola Heider,</h2>
+                    <p>En este reporte mensual deseamos avivar nuestros lazos actuales, por ello, desde AdministradosHD queremos recordarte que:<br><br><br>
+                    A fecha de 2024-09-25<br><br>
+                    Nos unen: 323.000 deseos Colombianos<br><br>
+                    Saludos,<br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE MENSUAL - total en deudas   -   
+RUTA_ARCHIVO:       -   
+FECHA_Y_HORA:    2024-09-25 21:41:50
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    edwin.leyton1992@gmail.com   -   
+NOMBRE: Karen   -   
+CONTENIDO:    <h2>Hola Karen,</h2>
+                    <p>En este reporte mensual deseamos avivar nuestros lazos actuales, por ello, desde AdministradosHD queremos recordarte que:<br><br><br>
+                    A fecha de 2024-09-25<br><br>
+                    Nos unen: 625333.341 deseos Colombianos<br><br>
+                    Saludos,<br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE MENSUAL - total en deudas   -   
+RUTA_ARCHIVO:       -   
+FECHA_Y_HORA:    2024-09-25 21:41:52
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    marlon199604@gmail.com   -   
+NOMBRE: Marlon   -   
+CONTENIDO:    <h2>Hola Marlon,</h2>
+                    <p>En este reporte mensual deseamos avivar nuestros lazos actuales, por ello, desde AdministradosHD queremos recordarte que:<br><br><br>
+                    A fecha de 2024-09-25<br><br>
+                    Nos unen: 1066039.999 deseos Colombianos<br><br>
+                    Saludos,<br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE MENSUAL - total en deudas   -   
+RUTA_ARCHIVO:       -   
+FECHA_Y_HORA:    2024-09-25 21:41:54
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    ofeliamontielvera@gmail.com   -   
+NOMBRE: Ofelia   -   
+CONTENIDO:    <h2>Hola Ofelia,</h2>
+                    <p>En este reporte mensual deseamos avivar nuestros lazos actuales, por ello, desde AdministradosHD queremos recordarte que:<br><br><br>
+                    A fecha de 2024-09-25<br><br>
+                    Nos unen: 57700.000 deseos Colombianos<br><br>
+                    Saludos,<br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE MENSUAL - total en deudas   -   
+RUTA_ARCHIVO:       -   
+FECHA_Y_HORA:    2024-09-25 21:41:56
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    ashleyleyton15@gmail.com   -   
+NOMBRE: Ashley   -   
+CONTENIDO:    <h2>Hola Ashley,</h2>
+<p>En este reporte deseamos hablarte sobre tu nuevo pago, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>                    
+A fecha de 2024-09-26 Se ha registrado un nuevo pago<br><br><br> 
+Con ID pago: 359<br><br>
+Con ID deuda: 122<br><br>
+Con un valor pago: 52000<br><br>
+Con un valor inicial (deuda): 119900.000<br><br>
+Con un valor actual (deuda): 67900.000<br><br>
+Con un interes total (deuda): 0.000<br><br>
+Con un valor total (deuda): 67900.000<br><br>
+Saludos, <br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva pago   -   
+RUTA_ARCHIVO:    ../ComprovantesPago/Confirmados/Pago66f61126c13db.png   -   
+FECHA_Y_HORA:    2024-09-26 20:57:59
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    ashleyleyton15@gmail.com   -   
+NOMBRE: Ashley   -   
+CONTENIDO:    <h2>Hola Ashley,</h2>
+<p>En este reporte deseamos hablarte sobre tu nuevo pago, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>                    
+A fecha de 2024-09-29 Se ha registrado un nuevo pago<br><br><br> 
+Con ID pago: 360<br><br>
+Con ID deuda: 116<br><br>
+Con un valor pago: 50000<br><br>
+Con un valor inicial (deuda): 176770.000<br><br>
+Con un valor actual (deuda): 19500.000<br><br>
+Con un interes total (deuda): 0.000<br><br>
+Con un valor total (deuda): 19500.000<br><br>
+Saludos, <br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva pago   -   
+RUTA_ARCHIVO:    ../ComprovantesPago/Confirmados/Pago66fa1aef3b29e.png   -   
+FECHA_Y_HORA:    2024-09-29 22:28:47
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    anllyleyton58@gmail.com   -   
+NOMBRE: Anlly   -   
+CONTENIDO:    <h2>Hola Anlly,</h2>
+<p>En este reporte deseamos hablarte sobre tu nuevo pago, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>                    
+A fecha de 2024-10-02 Se ha registrado un nuevo pago<br><br><br> 
+Con ID pago: 361<br><br>
+Con ID deuda: 120<br><br>
+Con un valor pago: 100000<br><br>
+Con un valor inicial (deuda): 312565.000<br><br>
+Con un valor actual (deuda): 212600.000<br><br>
+Con un interes total (deuda): 0.000<br><br>
+Con un valor total (deuda): 212600.000<br><br>
+Saludos, <br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva pago   -   
+RUTA_ARCHIVO:    ../ComprovantesPago/Confirmados/Pago66fdbcc952261.png   -   
+FECHA_Y_HORA:    2024-10-02 16:36:09
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    edwin.leyton1992@gmail.com   -   
+NOMBRE: Edwin Leyton    -   
+CONTENIDO:    <h2>Hola Edwin Leyton ,</h2>
+<p>En este reporte deseamos hablarte sobre tu nuevo pago, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>                    
+A fecha de 2024-10-03 Se ha registrado un nuevo pago<br><br><br> 
+Con ID pago: 362<br><br>
+Con ID deuda: 77<br><br>
+Con un valor pago: 100000<br><br>
+Con un valor inicial (deuda): 330000.000<br><br>
+Con un valor actual (deuda): 81000.000<br><br>
+Con un interes total (deuda): 0.000<br><br>
+Con un valor total (deuda): 81000.000<br><br>
+Saludos, <br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva pago   -   
+RUTA_ARCHIVO:    ../ComprovantesPago/Confirmados/Pago66ff4ff908cbc.png   -   
+FECHA_Y_HORA:    2024-10-03 21:16:25
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    ashleyleyton15@gmail.com   -   
+NOMBRE: Ashley   -   
+CONTENIDO:    <h2>Hola Ashley,</h2>
+<p>En este reporte deseamos hablarte sobre tu nuevo pago, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>                    
+A fecha de 2024-10-11 Se ha registrado un nuevo pago<br><br><br> 
+Con ID pago: 363<br><br>
+Con ID deuda: 122<br><br>
+Con un valor pago: 32000<br><br>
+Con un valor inicial (deuda): 119900.000<br><br>
+Con un valor actual (deuda): 35900.000<br><br>
+Con un interes total (deuda): 0.000<br><br>
+Con un valor total (deuda): 35900.000<br><br>
+Saludos, <br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva pago   -   
+RUTA_ARCHIVO:    ../ComprovantesPago/Confirmados/Pago67097e36adce7.png   -   
+FECHA_Y_HORA:    2024-10-11 14:36:22
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    anllyleyton58@gmail.com   -   
+NOMBRE: Anlly   -   
+CONTENIDO:    <h2>Hola Anlly,</h2>
+<p>En este reporte deseamos hablarte sobre tu nuevo pago, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>                    
+A fecha de 2024-10-11 Se ha registrado un nuevo pago<br><br><br> 
+Con ID pago: 364<br><br>
+Con ID deuda: 120<br><br>
+Con un valor pago: 50000<br><br>
+Con un valor inicial (deuda): 312565.000<br><br>
+Con un valor actual (deuda): 212600.000<br><br>
+Con un interes total (deuda): 0.000<br><br>
+Con un valor total (deuda): 212600.000<br><br>
+Saludos, <br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva pago   -   
+RUTA_ARCHIVO:    ../ComprovantesPago/Confirmados/Pago6709c1994e2c7.png   -   
+FECHA_Y_HORA:    2024-10-11 19:23:53
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    ashleyleyton15@gmail.com   -   
+NOMBRE: Ashley   -   
+CONTENIDO:    <h2>Hola Ashley,</h2>
+<p>En este reporte deseamos hablarte sobre tu nuevo pago, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>                    
+A fecha de 2024-10-14 Se ha registrado un nuevo pago y ha finiquitado una deuda<br><br><br> 
+Con ID pago: 365<br><br>
+Con ID deuda: 122<br><br>
+Con un valor pago: 35900<br><br>
+Con un valor inicial (deuda): 119900.000<br><br>
+Con un valor actual (deuda): 0.000<br><br>
+Con un interes total (deuda): 0.000<br><br>
+Con un valor total (deuda): 0.000<br><br>
+Saludos, <br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva pago   -   
+RUTA_ARCHIVO:    ../ComprovantesPago/Confirmados/Pago670ddb68cf20c.png   -   
+FECHA_Y_HORA:    2024-10-14 22:03:05
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    ashleyleyton15@gmail.com   -   
+NOMBRE: Ashley   -   
+CONTENIDO:    <h2>Hola Ashley,</h2>
+<p>En este reporte deseamos hablarte sobre tu nuevo pago, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>                    
+A fecha de 2024-10-14 Se ha registrado un nuevo pago<br><br><br> 
+Con ID pago: 366<br><br>
+Con ID deuda: 116<br><br>
+Con un valor pago: 14100<br><br>
+Con un valor inicial (deuda): 176770.000<br><br>
+Con un valor actual (deuda): 5400.000<br><br>
+Con un interes total (deuda): 0.000<br><br>
+Con un valor total (deuda): 5400.000<br><br>
+Saludos, <br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva pago   -   
+RUTA_ARCHIVO:    ../ComprovantesPago/Confirmados/Pago670ddb9fa5e87.png   -   
+FECHA_Y_HORA:    2024-10-14 22:03:59
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    ashleyleyton15@gmail.com   -   
+NOMBRE: Ashley   -   
+CONTENIDO:    <h2>Hola Ashley,</h2>
+<p>En este reporte deseamos hablarte sobre tu nuevo pago, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>                    
+A fecha de 2024-10-14 Se ha registrado un nuevo pago y ha finiquitado una deuda<br><br><br> 
+Con ID pago: 367<br><br>
+Con ID deuda: 116<br><br>
+Con un valor pago: 5400<br><br>
+Con un valor inicial (deuda): 176770.000<br><br>
+Con un valor actual (deuda): 0.000<br><br>
+Con un interes total (deuda): 0.000<br><br>
+Con un valor total (deuda): 0.000<br><br>
+Saludos, <br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva pago   -   
+RUTA_ARCHIVO:    ../ComprovantesPago/Confirmados/Pago670ddd0be844c.png   -   
+FECHA_Y_HORA:    2024-10-14 22:10:04
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    ashleyleyton15@gmail.com   -   
+NOMBRE: Ashley   -   
+CONTENIDO:    <h2>Hola Ashley,</h2>
+                    <p>En este reporte deseamos hablarte sobre tu nueva deuda, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>
+                    A fecha de 2024-10-23 Se ha registrado una nueva deuda.<br><br><br>
+                    Con ID: 123<br><br>
+                    Con un valor inicial: 70000<br><br>
+                    Con un valor actual: 77000.000<br><br>
+                    Saludos,<br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva deuda   -   
+RUTA_ARCHIVO:    ../ComprovantesDeuda/Aprovados/Deuda67199a1be14fa.png   -   
+FECHA_Y_HORA:    2024-10-23 19:51:40
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    ashleyleyton15@gmail.com   -   
+NOMBRE: Ashley   -   
+CONTENIDO:    <h2>Hola Ashley,</h2>
+<p>En este reporte deseamos hablarte sobre tu nuevo pago, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>                    
+A fecha de 2024-10-27 Se ha registrado un nuevo pago<br><br><br> 
+Con ID pago: 368<br><br>
+Con ID deuda: 123<br><br>
+Con un valor pago: 50000<br><br>
+Con un valor inicial (deuda): 77000.000<br><br>
+Con un valor actual (deuda): 27000.000<br><br>
+Con un interes total (deuda): 0.000<br><br>
+Con un valor total (deuda): 27000.000<br><br>
+Saludos, <br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva pago   -   
+RUTA_ARCHIVO:    ../ComprovantesPago/Confirmados/Pago671f003a709e1.png   -   
+FECHA_Y_HORA:    2024-10-27 22:08:42
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    ashleyleyton15@gmail.com   -   
+NOMBRE: Ashley   -   
+CONTENIDO:    <h2>Hola Ashley,</h2>
+                    <p>En este reporte deseamos hablarte sobre tu nueva deuda, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>
+                    A fecha de 2024-11-03 Se ha registrado una nueva deuda.<br><br><br>
+                    Con ID: 124<br><br>
+                    Con un valor inicial: 60000<br><br>
+                    Con un valor actual: 66000.000<br><br>
+                    Saludos,<br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva deuda   -   
+RUTA_ARCHIVO:    ../ComprovantesDeuda/Aprovados/Deuda672781a993d2b.png   -   
+FECHA_Y_HORA:    2024-11-03 08:59:05
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    ashleyleyton15@gmail.com   -   
+NOMBRE: Ashley   -   
+CONTENIDO:    <h2>Hola Ashley,</h2>
+<p>En este reporte deseamos hablarte sobre tu nuevo pago, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>                    
+A fecha de 2024-11-03 Se ha registrado un nuevo pago y ha finiquitado una deuda<br><br><br> 
+Con ID pago: 369<br><br>
+Con ID deuda: 123<br><br>
+Con un valor pago: 27000<br><br>
+Con un valor inicial (deuda): 77000.000<br><br>
+Con un valor actual (deuda): 0.000<br><br>
+Con un interes total (deuda): 0.000<br><br>
+Con un valor total (deuda): 0.000<br><br>
+Saludos, <br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva pago   -   
+RUTA_ARCHIVO:    ../ComprovantesPago/Confirmados/Pago672781d14e25a.png   -   
+FECHA_Y_HORA:    2024-11-03 08:59:45
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    ashleyleyton15@gmail.com   -   
+NOMBRE: Ashley   -   
+CONTENIDO:    <h2>Hola Ashley,</h2>
+<p>En este reporte deseamos hablarte sobre tu nuevo pago, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>                    
+A fecha de 2024-11-12 Se ha registrado un nuevo pago<br><br><br> 
+Con ID pago: 370<br><br>
+Con ID deuda: 124<br><br>
+Con un valor pago: 32000<br><br>
+Con un valor inicial (deuda): 66000.000<br><br>
+Con un valor actual (deuda): 34000.000<br><br>
+Con un interes total (deuda): 0.000<br><br>
+Con un valor total (deuda): 34000.000<br><br>
+Saludos, <br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva pago   -   
+RUTA_ARCHIVO:    ../ComprovantesPago/Confirmados/Pago67340000c379f.png   -   
+FECHA_Y_HORA:    2024-11-12 20:25:21
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    marlon199604@gmail.com   -   
+NOMBRE: Marlon   -   
+CONTENIDO:    <h2>Hola Marlon,</h2>
+                    <p>En este reporte deseamos hablarte sobre tu nueva deuda, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>
+                    A fecha de 2024-11-18 Se ha registrado una nueva deuda.<br><br><br>
+                    Con ID: 125<br><br>
+                    Con un valor inicial: 250000<br><br>
+                    Con un valor actual: 275000.000<br><br>
+                    Saludos,<br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva deuda   -   
+RUTA_ARCHIVO:    ../ComprovantesDeuda/Aprovados/Deuda673bc2a616636.png   -   
+FECHA_Y_HORA:    2024-11-18 17:41:42
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    ashleyleyton15@gmail.com   -   
+NOMBRE: Ashley   -   
+CONTENIDO:    <h2>Hola Ashley,</h2>
+<p>En este reporte deseamos hablarte sobre tu nuevo pago, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>                    
+A fecha de 2024-11-18 Se ha registrado un nuevo pago<br><br><br> 
+Con ID pago: 371<br><br>
+Con ID deuda: 124<br><br>
+Con un valor pago: 5000<br><br>
+Con un valor inicial (deuda): 66000.000<br><br>
+Con un valor actual (deuda): 29000.000<br><br>
+Con un interes total (deuda): 0.000<br><br>
+Con un valor total (deuda): 29000.000<br><br>
+Saludos, <br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva pago   -   
+RUTA_ARCHIVO:    ../ComprovantesPago/Confirmados/Pago673bc2e61efd8.png   -   
+FECHA_Y_HORA:    2024-11-18 17:42:46
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    ashleyleyton15@gmail.com   -   
+NOMBRE: Ashley   -   
+CONTENIDO:    <h2>Hola Ashley,</h2>
+                    <p>En este reporte deseamos hablarte sobre tu nueva deuda, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>
+                    A fecha de 2024-11-21 Se ha registrado una nueva deuda.<br><br><br>
+                    Con ID: 126<br><br>
+                    Con un valor inicial: 1000<br><br>
+                    Con un valor actual: 1100.000<br><br>
+                    Saludos,<br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva deuda   -   
+RUTA_ARCHIVO:    ../ComprovantesDeuda/Aprovados/Deuda673f884431a06.png   -   
+FECHA_Y_HORA:    2024-11-21 14:21:40
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    ashleyleyton15@gmail.com   -   
+NOMBRE: Ashley   -   
+CONTENIDO:    <h2>Hola Ashley,</h2>
+<p>En este reporte deseamos hablarte sobre tu nuevo pago, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>                    
+A fecha de 2024-11-23 Se ha registrado un nuevo pago<br><br><br> 
+Con ID pago: 372<br><br>
+Con ID deuda: 124<br><br>
+Con un valor pago: 17000<br><br>
+Con un valor inicial (deuda): 66000.000<br><br>
+Con un valor actual (deuda): 12000.000<br><br>
+Con un interes total (deuda): 0.000<br><br>
+Con un valor total (deuda): 12000.000<br><br>
+Saludos, <br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva pago   -   
+RUTA_ARCHIVO:    ../ComprovantesPago/Confirmados/Pago674235b93d88d.png   -   
+FECHA_Y_HORA:    2024-11-23 15:06:17
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    ashleyleyton15@gmail.com   -   
+NOMBRE: Ashley   -   
+CONTENIDO:    <h2>Hola Ashley,</h2>
+<p>En este reporte deseamos hablarte sobre tu nuevo pago, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>                    
+A fecha de 2024-11-24 Se ha registrado un nuevo pago y ha finiquitado una deuda<br><br><br> 
+Con ID pago: 373<br><br>
+Con ID deuda: 124<br><br>
+Con un valor pago: 12000<br><br>
+Con un valor inicial (deuda): 66000.000<br><br>
+Con un valor actual (deuda): 0.000<br><br>
+Con un interes total (deuda): 0.000<br><br>
+Con un valor total (deuda): 0.000<br><br>
+Saludos, <br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva pago   -   
+RUTA_ARCHIVO:    ../ComprovantesPago/Confirmados/Pago6743b25877f26.png   -   
+FECHA_Y_HORA:    2024-11-24 18:10:16
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    ashleyleyton15@gmail.com   -   
+NOMBRE: Ashley   -   
+CONTENIDO:    <h2>Hola Ashley,</h2>
+<p>En este reporte deseamos hablarte sobre tu nuevo pago, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>                    
+A fecha de 2024-11-24 Se ha registrado un nuevo pago y ha finiquitado una deuda<br><br><br> 
+Con ID pago: 374<br><br>
+Con ID deuda: 126<br><br>
+Con un valor pago: 1100<br><br>
+Con un valor inicial (deuda): 1100.000<br><br>
+Con un valor actual (deuda): 0.000<br><br>
+Con un interes total (deuda): 0.000<br><br>
+Con un valor total (deuda): 0.000<br><br>
+Saludos, <br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva pago   -   
+RUTA_ARCHIVO:    ../ComprovantesPago/Confirmados/Pago6743b2838cfa5.png   -   
+FECHA_Y_HORA:    2024-11-24 18:10:59
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    ashleyleyton15@gmail.com   -   
+NOMBRE: Ashley   -   
+CONTENIDO:    <h2>Hola Ashley,</h2>
+                    <p>En este reporte deseamos hablarte sobre tu nueva deuda, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>
+                    A fecha de 2024-12-02 Se ha registrado una nueva deuda.<br><br><br>
+                    Con ID: 127<br><br>
+                    Con un valor inicial: 30000<br><br>
+                    Con un valor actual: 30000.000<br><br>
+                    Saludos,<br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva deuda   -   
+RUTA_ARCHIVO:    ../ComprovantesDeuda/Aprovados/Deuda674e5d72906f5.png   -   
+FECHA_Y_HORA:    2024-12-02 20:22:58
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    ashleyleyton15@gmail.com   -   
+NOMBRE: Ashley   -   
+CONTENIDO:    <h2>Hola Ashley,</h2>
+                    <p>En este reporte deseamos hablarte sobre tu nueva deuda, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>
+                    A fecha de 2024-12-04 Se ha registrado una nueva deuda.<br><br><br>
+                    Con ID: 128<br><br>
+                    Con un valor inicial: 20000<br><br>
+                    Con un valor actual: 22000.000<br><br>
+                    Saludos,<br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva deuda   -   
+RUTA_ARCHIVO:    ../ComprovantesDeuda/Aprovados/Deuda6750a4d3cde89.png   -   
+FECHA_Y_HORA:    2024-12-04 13:52:04
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    ashleyleyton15@gmail.com   -   
+NOMBRE: Ashley   -   
+CONTENIDO:    <h2>Hola Ashley,</h2>
+<p>En este reporte deseamos hablarte sobre tu nuevo pago, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>                    
+A fecha de 2024-12-05 Se ha registrado un nuevo pago y ha finiquitado una deuda<br><br><br> 
+Con ID pago: 375<br><br>
+Con ID deuda: 128<br><br>
+Con un valor pago: 22000<br><br>
+Con un valor inicial (deuda): 22000.000<br><br>
+Con un valor actual (deuda): 0.000<br><br>
+Con un interes total (deuda): 0.000<br><br>
+Con un valor total (deuda): 0.000<br><br>
+Saludos, <br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva pago   -   
+RUTA_ARCHIVO:    ../ComprovantesPago/Confirmados/Pago67520be369c2b.png   -   
+FECHA_Y_HORA:    2024-12-05 15:24:03
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    ashleyleyton15@gmail.com   -   
+NOMBRE: Ashley   -   
+CONTENIDO:    <h2>Hola Ashley,</h2>
+<p>En este reporte deseamos hablarte sobre tu nuevo pago, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>                    
+A fecha de 2024-12-05 Se ha registrado un nuevo pago y ha finiquitado una deuda<br><br><br> 
+Con ID pago: 376<br><br>
+Con ID deuda: 127<br><br>
+Con un valor pago: 30300<br><br>
+Con un valor inicial (deuda): 30000.000<br><br>
+Con un valor actual (deuda): 0.000<br><br>
+Con un interes total (deuda): 0.000<br><br>
+Con un valor total (deuda): 0.000<br><br>
+Saludos, <br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva pago   -   
+RUTA_ARCHIVO:    ../ComprovantesPago/Confirmados/Pago67520bf6420af.png   -   
+FECHA_Y_HORA:    2024-12-05 15:24:22
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    marlon199604@gmail.com   -   
+NOMBRE: Marlon   -   
+CONTENIDO:    <h2>Hola Marlon,</h2>
+                    <p>En este reporte deseamos hablarte sobre tu nueva deuda, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>
+                    A fecha de 2024-12-09 Se ha registrado una nueva deuda.<br><br><br>
+                    Con ID: 129<br><br>
+                    Con un valor inicial: 120000<br><br>
+                    Con un valor actual: 132000.000<br><br>
+                    Saludos,<br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva deuda   -   
+RUTA_ARCHIVO:    ../ComprovantesDeuda/Aprovados/Deuda675798c8eb9a7.png   -   
+FECHA_Y_HORA:    2024-12-09 20:26:33
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    marlon199604@gmail.com   -   
+NOMBRE: Marlon   -   
+CONTENIDO:    <h2>Hola Marlon,</h2>
+<p>En este reporte deseamos hablarte sobre tu nuevo pago, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>                    
+A fecha de 2024-12-10 Se ha registrado un nuevo pago<br><br><br> 
+Con ID pago: 377<br><br>
+Con ID deuda: 40<br><br>
+Con un valor pago: 10000<br><br>
+Con un valor inicial (deuda): 11000.000<br><br>
+Con un valor actual (deuda): 1000.000<br><br>
+Con un interes total (deuda): 0.000<br><br>
+Con un valor total (deuda): 1000.000<br><br>
+Saludos, <br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva pago   -   
+RUTA_ARCHIVO:    ../ComprovantesPago/Confirmados/Pago6758d2c378beb.png   -   
+FECHA_Y_HORA:    2024-12-10 18:46:11
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    marlon199604@gmail.com   -   
+NOMBRE: Marlon   -   
+CONTENIDO:    <h2>Hola Marlon,</h2>
+<p>En este reporte deseamos hablarte sobre tu nuevo pago, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>                    
+A fecha de 2024-12-10 Se ha registrado un nuevo pago y ha finiquitado una deuda<br><br><br> 
+Con ID pago: 378<br><br>
+Con ID deuda: 40<br><br>
+Con un valor pago: 1000<br><br>
+Con un valor inicial (deuda): 11000.000<br><br>
+Con un valor actual (deuda): 0.000<br><br>
+Con un interes total (deuda): 0.000<br><br>
+Con un valor total (deuda): 0.000<br><br>
+Saludos, <br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva pago   -   
+RUTA_ARCHIVO:    ../ComprovantesPago/Confirmados/Pago6758d31a8d8ee.png   -   
+FECHA_Y_HORA:    2024-12-10 18:47:38
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    marlon199604@gmail.com   -   
+NOMBRE: Marlon   -   
+CONTENIDO:    <h2>Hola Marlon,</h2>
+<p>En este reporte deseamos hablarte sobre tu nuevo pago, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>                    
+A fecha de 2024-12-10 Se ha registrado un nuevo pago y ha finiquitado una deuda<br><br><br> 
+Con ID pago: 379<br><br>
+Con ID deuda: 44<br><br>
+Con un valor pago: 3000<br><br>
+Con un valor inicial (deuda): 3000.000<br><br>
+Con un valor actual (deuda): 0.000<br><br>
+Con un interes total (deuda): 0.000<br><br>
+Con un valor total (deuda): 0.000<br><br>
+Saludos, <br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva pago   -   
+RUTA_ARCHIVO:    ../ComprovantesPago/Confirmados/Pago6758d333501c3.png   -   
+FECHA_Y_HORA:    2024-12-10 18:48:03
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    marlon199604@gmail.com   -   
+NOMBRE: Marlon   -   
+CONTENIDO:    <h2>Hola Marlon,</h2>
+<p>En este reporte deseamos hablarte sobre tu nuevo pago, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>                    
+A fecha de 2024-12-10 Se ha registrado un nuevo pago<br><br><br> 
+Con ID pago: 380<br><br>
+Con ID deuda: 45<br><br>
+Con un valor pago: 7000<br><br>
+Con un valor inicial (deuda): 45000.000<br><br>
+Con un valor actual (deuda): 38000.000<br><br>
+Con un interes total (deuda): 0.000<br><br>
+Con un valor total (deuda): 38000.000<br><br>
+Saludos, <br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva pago   -   
+RUTA_ARCHIVO:    ../ComprovantesPago/Confirmados/Pago6758d34dce910.png   -   
+FECHA_Y_HORA:    2024-12-10 18:48:30
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    marlon199604@gmail.com   -   
+NOMBRE: Marlon   -   
+CONTENIDO:    <h2>Hola Marlon,</h2>
+<p>En este reporte deseamos hablarte sobre tu nuevo pago, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>                    
+A fecha de 2024-12-10 Se ha registrado un nuevo pago<br><br><br> 
+Con ID pago: 381<br><br>
+Con ID deuda: 45<br><br>
+Con un valor pago: 10000<br><br>
+Con un valor inicial (deuda): 45000.000<br><br>
+Con un valor actual (deuda): 28000.000<br><br>
+Con un interes total (deuda): 0.000<br><br>
+Con un valor total (deuda): 28000.000<br><br>
+Saludos, <br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva pago   -   
+RUTA_ARCHIVO:    ../ComprovantesPago/Confirmados/Pago6758d430db62c.png   -   
+FECHA_Y_HORA:    2024-12-10 18:52:17
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    marlon199604@gmail.com   -   
+NOMBRE: Marlon   -   
+CONTENIDO:    <h2>Hola Marlon,</h2>
+<p>En este reporte deseamos hablarte sobre tu nuevo pago, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>                    
+A fecha de 2024-12-11 Se ha registrado un nuevo pago<br><br><br> 
+Con ID pago: 382<br><br>
+Con ID deuda: 45<br><br>
+Con un valor pago: 10000<br><br>
+Con un valor inicial (deuda): 45000.000<br><br>
+Con un valor actual (deuda): 18000.000<br><br>
+Con un interes total (deuda): 0.000<br><br>
+Con un valor total (deuda): 18000.000<br><br>
+Saludos, <br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva pago   -   
+RUTA_ARCHIVO:    ../ComprovantesPago/Confirmados/Pago675a5412067e5.png   -   
+FECHA_Y_HORA:    2024-12-11 22:10:10
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+

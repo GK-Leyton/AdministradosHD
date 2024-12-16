@@ -1,0 +1,72 @@
+tabla: deudas
+campo: estado
+valores:
+Activa : 1
+Finalizada : 0
+------------------------------------------------
+tabla: deudas
+campo: comprovante_deuda
+valores:
+No Existente / Registro Antiguo : NULL
+Finalizada : 'Ruta Archivo'
+------------------------------------------------
+tabla: pagos
+campo: fecha-pago
+valores:
+No Existente / Registro Antiguo : NULL
+Existente: 'fecha-pago'
+------------------------------------------------
+tabla: pagos
+campo: estado
+valores:
+Aceptado : 0
+Pendiente : 1
+Rechazado : 2
+------------------------------------------------
+tabla: pagos
+campo: comprovante_pago
+valores:
+No Existente / Registro Antiguo : NULL
+Existente : 'Ruta Archivo'
+------------------------------------------------
+tabla: pagos
+campo: id_update
+valores:
+Registro Antiguo / No Editado : NULL
+Editado : 'id del usuario que edita'
+------------------------------------------------
+tabla: usuario
+campo: tipo
+valores:
+Administrador : 1
+Cliente : 0
+------------------------------------------------
+tabla: usuario
+campo: estado
+valores:
+Inactivo : 1
+Activo: 0
+------------------------------------------------
+tabla: notificaciones
+campo: tipo
+valores:
+Eventos Pagos : 1
+Aumentos Interes : 0
+------------------------------------------------
+tabla: notificaciones
+campo: estado
+valores:
+No Visto : 1
+Visto : 0
+------------------------------------------------
+tabla: notificaciones
+campo: estado2
+valores:
+No Visto : 1
+Visto : 0
+------------------------------------------------
+tabla: notificaciones
+campo: modo
+valores:
+Actualizacion : 1
+Insercion : 0

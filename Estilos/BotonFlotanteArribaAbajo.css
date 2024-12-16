@@ -1,0 +1,35 @@
+#scrollToTopBtn , #scrollToBotBtn{
+    position: fixed;
+    bottom: 20px;
+    right: 2%;
+    transform: translateX(-50%);
+    background-color: rgba(128, 128, 128, 0.7); /* Gris medio transparente */
+    color: rgba(255, 255, 255, 1); /* Texto blanco */
+    border: none;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    display: none;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: background-color 0.3s, color 0.3s, transform 0.3s;
+}
+
+#scrollToTopBtn:hover , #scrollToBotBtn:hover{
+    background-color: rgba(128, 128, 128, 0.9); /* Gris más oscuro en hover */
+}
+
+#scrollToTopBtn:active , #scrollToBotBtn:active {
+    background-color: rgba(128, 128, 128, 1); /* Gris sólido al hacer clic */
+    color: rgba(255, 255, 255, 0); /* Texto invisible al hacer clic */
+}
+
+#scrollToTopBtn i , #scrollToBotBtn i {
+    transition: opacity 0.3s;
+}
+
+#scrollToTopBtn:active i , #scrollToBotBtn:active i {
+    opacity: 0; /* Oculta el icono al hacer clic */
+}

@@ -1,0 +1,157 @@
+body{
+    background: linear-gradient(to right, #F5F5DC, #F5F5DC );
+}
+
+h5,h2,p{
+    text-align: center;
+}
+
+.texto-superpuesto {
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    border-radius: 1em;
+    transform: translate(-50%, -50%);
+    font-size: 1em;
+    font-weight: bold;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.8); /* Fondo semitransparente */
+    padding: 1em;
+}
+
+
+.nav-item :hover{
+    background-color: lightcyan;
+    border-radius: 5%;
+    padding: 0.8em;
+}
+
+.nav-item {
+    border: solid #D8D8C0;
+    border-radius: 5px;
+    margin: 5px;
+    text-align: center;
+}
+
+
+
+.floating-button {
+    color: white;
+    padding: 1em;
+    border-radius: 50%;
+    cursor: pointer;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.);
+    transition: background-color 0.3s;
+}
+
+.floating-button:hover {
+    background-color: lightcyan;
+}
+
+nav{
+
+    margin: 10px;
+    border-color: red;
+    border-radius: 2em;
+}
+
+
+#navbarNav{
+    margin-top:1em;
+    border-style: solid;
+    border-width: 1px;
+    border-color: brown;
+    border-radius: 1em;
+}
+
+
+.notification-container {
+    position: absolute;
+    top: 60px; /* Ajusta según tu diseño */
+    align-items: center;
+    width: 20em;
+    max-height: 400px;
+    overflow-y: auto;
+    background-color: white;
+    border-radius: 8%;
+    border: 1px solid #ddd;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    display: none;
+    z-index: 1000;
+}
+
+.notification {
+    background-color:  white;
+    padding: 10px;
+    border-bottom: 1px solid black;
+    margin: 1px;
+    text-align: justify;
+}
+
+.notification:last-child {
+    border-bottom: none;
+
+}
+.notification:hover{
+    background-color: lightcyan;
+    border-radius: 8%;
+    color: black;
+    padding: 0.8em;
+}
+
+.texto{
+    color: #000000;
+
+}
+
+.footer {
+
+    background-color: #BDB76B; /* Color de fondo beige claro */
+    color: #333333; /* Color de texto gris oscuro */
+    text-align: center;
+    padding: 0px;
+    margin-top: 2em;
+    border: 2px groove gold;
+    border-radius: 1em;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+.footer a {
+    color: #003366; /* Color de enlace azul marino */
+    text-decoration: none;
+}
+
+.footer a:hover {
+    text-decoration: underline;
+}
+
+.promo{
+    border:  3px groove red;
+
+    border-radius: 10px;
+}
+
+.btn2 {
+    border: 4px solid white;
+    border-radius: 0.5em;
+    background-color:#90FA90;
+    color: black;
+    font-weight: bold;
+
+}
+
+.btn2:hover{
+    background-color:#90DE90;
+}
+
+.comprovante{
+    align-items: center;
+    align-content: center;
+}
+
+.img-fluid{
+    align-self: center;
+}
+

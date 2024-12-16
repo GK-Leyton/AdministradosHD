@@ -1,0 +1,110 @@
+.table-responsive {
+    width: 100%;
+    overflow-x: auto;
+}
+
+.table {
+    width: 100%;
+    table-layout: auto;
+}
+
+body {
+    background: linear-gradient(to right, #F5F5DC, #F5F5DC);
+}
+
+.logo {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.slogan {
+    text-align: center;
+    font-style: italic;
+    color: #666;
+}
+
+.imagen-container {
+    max-height: 0;
+    opacity: 0;
+    overflow: hidden;
+    transition: max-height 0.5s ease, opacity 0.5s ease;
+}
+
+.imagen-container.visible {
+    max-height: 1000px;
+    opacity: 1;
+}
+
+.imagen {
+    width: 20em;
+    height: auto;
+}
+
+.col-md-2 {
+    align-items: center;
+}
+
+.navbar {   
+    margin-top: 1em;
+    border-radius: 2em;
+}
+
+th {
+    background-color: #AFAF7E;
+}
+
+thead {
+    border: 3px groove gold;
+}
+
+tr {
+    border-top: 0.4em groove white;
+}
+
+td {
+    vertical-align: bottom;
+}
+
+tr:hover {
+    background-color: #C0C09E;
+    font-weight: bold;
+    color: white;
+}
+
+.btn1 {
+    border: 4px solid white;
+    border-radius: 0.5em;
+    background-color: #FFD700;
+    color: black;
+    font-weight: bold;
+}
+
+.btn0 {
+    border: 4px solid white;
+    border-radius: 0.5em;
+    background-color: #87DFFF;
+    color: black;
+    font-weight: bold;
+}
+
+.btn1:hover {
+    background-color: #FFC107;
+}
+
+.btn0:hover {
+    background-color: #87BDDA;
+}
+
+
+.btn2 {
+    border: 4px solid white;
+    border-radius: 0.5em;
+    background-color:#90FA90;
+    color: black;
+    font-weight: bold;
+
+}
+
+.btn2:hover{
+    background-color:#90DE90;
+}
