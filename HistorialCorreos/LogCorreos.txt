@@ -2627,3 +2627,75 @@ FECHA_Y_HORA:    2024-12-11 22:10:10
 
 -+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
 
+CORREO:    marlon199604@gmail.com   -   
+NOMBRE: Marlon   -   
+CONTENIDO:    <h2>Hola Marlon,</h2>
+                    <p>En este reporte deseamos hablarte sobre tu nueva deuda, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>
+                    A fecha de 2024-12-16 Se ha registrado una nueva deuda.<br><br><br>
+                    Con ID: 130<br><br>
+                    Con un valor inicial: 16000<br><br>
+                    Con un valor actual: 16000.000<br><br>
+                    Saludos,<br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva deuda   -   
+RUTA_ARCHIVO:    ../ComprovantesDeuda/Aprovados/Deuda6760dba83b60b.png   -   
+FECHA_Y_HORA:    2024-12-16 21:02:16
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    anllyleyton58@gmail.com   -   
+NOMBRE: Anlly   -   
+CONTENIDO:    <h2>Hola Anlly,</h2>
+<p>En este reporte deseamos hablarte sobre tu nuevo pago, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>                    
+A fecha de 2024-12-16 Se ha registrado un nuevo pago<br><br><br> 
+Con ID pago: 383<br><br>
+Con ID deuda: 120<br><br>
+Con un valor pago: 10000<br><br>
+Con un valor inicial (deuda): 312565.000<br><br>
+Con un valor actual (deuda): 152600.000<br><br>
+Con un interes total (deuda): 0.000<br><br>
+Con un valor total (deuda): 152600.000<br><br>
+Saludos, <br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva pago   -   
+RUTA_ARCHIVO:    ../ComprovantesPago/Confirmados/Pago6760dbf582766.png   -   
+FECHA_Y_HORA:    2024-12-16 21:03:33
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    marlon199604@gmail.com   -   
+NOMBRE: Marlon   -   
+CONTENIDO:    <h2>Hola Marlon,</h2>
+<p>En este reporte deseamos hablarte sobre tu nuevo pago, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>                    
+A fecha de 2024-12-17 Se ha registrado un nuevo pago<br><br><br> 
+Con ID pago: 384<br><br>
+Con ID deuda: 129<br><br>
+Con un valor pago: 10000<br><br>
+Con un valor inicial (deuda): 132000.000<br><br>
+Con un valor actual (deuda): 122000.000<br><br>
+Con un interes total (deuda): 0.000<br><br>
+Con un valor total (deuda): 122000.000<br><br>
+Saludos, <br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva pago   -   
+RUTA_ARCHIVO:    ../ComprovantesPago/Confirmados/Pago676246751a1ca.png   -   
+FECHA_Y_HORA:    2024-12-17 22:50:13
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
+CORREO:    marlon199604@gmail.com   -   
+NOMBRE: Marlon   -   
+CONTENIDO:    <h2>Hola Marlon,</h2>
+<p>En este reporte deseamos hablarte sobre tu nuevo pago, por ello, desde AdministradosHD queremos compartirte que:<br><br><br>                    
+A fecha de 2024-12-18 Se ha registrado un nuevo pago<br><br><br> 
+Con ID pago: 385<br><br>
+Con ID deuda: 45<br><br>
+Con un valor pago: 10000<br><br>
+Con un valor inicial (deuda): 45000.000<br><br>
+Con un valor actual (deuda): 8000.000<br><br>
+Con un interes total (deuda): 0.000<br><br>
+Con un valor total (deuda): 8000.000<br><br>
+Saludos, <br>AdministradosHD</p><br><br><br>   -   
+ASUNTO:    REPORTE DEUDA - nueva pago   -   
+RUTA_ARCHIVO:    ../ComprovantesPago/Confirmados/Pago676364ba3a2ca.png   -   
+FECHA_Y_HORA:    2024-12-18 19:11:38
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+
